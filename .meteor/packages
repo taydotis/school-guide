@@ -21,3 +21,4 @@ twbs:bootstrap
 fourseven:scss
 dburles:google-maps
 iron:router
+sacha:spin
