@@ -1,12 +1,10 @@
 <template name="layout">
-  <div class="container">
-    <header class="navbar navbar-default" role="navigation"> 
-      <div class="navbar-header">
-        <a class="navbar-brand" href="{{pathFor 'schoolMap'}}">School Guide</a>
-      </div>
-    </header>
-    <div id="main">
-      {{> yield}}
+  <header class="navbar navbar-default" role="navigation"> 
+    <div class="navbar-header">
+      <a class="navbar-brand" href="{{pathFor 'schoolMap'}}">School Guide</a>
     </div>
+  </header>
+  <div id="main">
+    {{> yield}}
   </div>
 </template>
