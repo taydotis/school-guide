@@ -1,5 +1,5 @@
 var geo = new GeoCoder();
-var schools = Schools.find({latlng:null});
+var schools = Schools.find({coordinates:null});
 var i = 0;
 schools.forEach(function (school) {
 	//only allows ten at a time to prevent hitting rate limit
@@ -8,8 +8,8 @@ schools.forEach(function (school) {
 		var result = geo.geocode(school.address + ', ' + school.city);
 		//make sure results are defined
 		if (result[0] != undefined) {
-			var coordinates = result[0].latitude + ',' + result[0].longitude;
-			Schools.update(school,{$set:{latlng: coordinates}});
+			var coordinates = {lat : result[0].latitude, lng : result[0].longitude};
+			Schools.update(school,{$set:{coordinates: coordinates}});
 			console.log(result[0].formattedAddress);
 		} else {
 		//log undefined results

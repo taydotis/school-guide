@@ -1,3074 +1,3842 @@
 [
   {
-    "name":"Cameron College Prep (LEAD PS)",
-    "address":"1034 1st Avenue",
-    "city":"Nashville",
-    "zip":"37210",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"http://cameroncollegeprep.org/",
-    "phone":"(615) 291-6365",
-    "type":"Charter",
-    "latlng":[36.1486282,-86.76427559999999]
-  },
-  {
-    "name":"Abintra Montessori School",
-    "address":"914 Davidson Drive",
-    "city":"Nashville",
-    "zip":"37205",
-    "county":"Davidson",
-    "grades":"PK-8",
-    "website":"www.abintra.org/ ",
-    "phone":"(615) 352-4317",
-    "type":"Non-secular Private",
-    "latlng":[36.1185238,-86.89789859999999]
-  },
-  {
-    "name":"Benton Hall Academy",
-    "address":"2422 Bethlehem Loop Rd",
-    "city":"Franklin",
-    "zip":"37069",
-    "county":"",
-    "grades":"K-12",
-    "website":"http://www.bentonhallacademy.org/",
-    "phone":"(615) 791-6467",
-    "type":"Non-secular Private",
-    "latlng":[36.0034474,-86.8883492]
-  },
-  {
-    "name":"Children's House of Nashville Montessori School",
-    "address":"3404 Belmont Blvd.",
-    "city":"Nashville",
-    "zip":"37215",
-    "county":"Davidson",
-    "grades":"PreK-K",
-    "website":"www.childrenshousenashville.org",
-    "phone":"(615) 298-5647",
-    "type":"Non-secular Private",
-    "latlng":[36.1146806,-86.7989345]
-  },
-  {
-    "name":"Brick Church College Prep* (LEAD PS)",
-    "address":"2835 Brick Church Pike",
-    "city":"Nashville",
-    "zip":"37207",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"http://www.brickchurchcollegeprep.org/",
-    "phone":"(615) 262-6665",
-    "type":"Charter",
-    "latlng":[36.220244,-86.7807823]
-  },
-  {
-    "name":"Cedarcreek Schoolhouse Academy",
-    "address":"2805 Foster Avenue Suite 200",
-    "city":"Nashville",
-    "zip":"37210",
-    "county":"Davidson",
-    "grades":"K-12",
-    "website":"www.cedarcreekschoolhouse.com",
-    "phone":"(615) 333-0405",
-    "type":"(Satellite home school)",
-    "latlng":[36.1129399,-86.7431309]
-  },
-  {
-    "name":"Born Again Christian Academy",
-    "address":"858 West Trinity Lane",
-    "city":"Nashville",
-    "zip":"37207",
-    "county":"Davidson",
-    "grades":"PK-3",
-    "website":"",
-    "phone":"(615) 228-1430",
-    "type":"Religious Private- Christian",
-    "latlng":[36.205995,-86.8027029]
-  },
-  {
-    "name":"Christ Presbyterian Academy",
-    "address":"2323-A Old Hickory Boulevard",
-    "city":"Nashville",
-    "zip":"37215",
-    "county":"Davidson",
-    "grades":"K-12",
-    "website":"www.cpalions.org",
-    "phone":"(615) 373-9550",
-    "type":"Religious Private- Christian",
-    "latlng":[36.0486549,-86.879127]
-  },
-  {
-    "name":"Akiva School",
-    "address":"809 Percy Warner Boulevard",
-    "city":"Nashville",
-    "zip":"37205-4009",
-    "county":"Davidson",
-    "grades":"K-6",
-    "website":"www.akivanashville.net",
-    "phone":"(615) 356-1880",
-    "type":"Religious Private- Jewish",
-    "latlng":[36.0847403,-86.89424540000002]
-  },
-  {
-    "name":"Barrington Christian Academy",
-    "address":"3010 Tuggle Avenue",
-    "city":"Nashville",
-    "zip":"37211",
-    "county":"Davidson",
-    "grades":"PreK-1",
-    "website":"www.bcanashville.com",
-    "phone":"615) 953-3034",
-    "type":"Religious Private- Christian",
-    "latlng":[36.106612,-86.733621]
-  },
-  {
-    "name":"Brentwood Academy",
-    "address":"219 Granny White Pike",
-    "city":"Brentwood",
-    "zip":"37027",
-    "county":"",
-    "grades":"6th-12th",
-    "website":"http://www.brentwoodacademy.com/",
-    "phone":"(615) 373-0611",
-    "type":"Religious Private- Christian",
-    "latlng":[36.0331798,-86.81960819999999]
-  },
-  {
-    "name":"Battle Ground Academy",
-    "address":"336 Earnest Rice Lane",
-    "city":"Franklin",
-    "zip":"37069",
-    "county":"",
-    "grades":"K-12",
-    "website":"http://www.battlegroundacademy.org/default.aspx",
-    "phone":"(615) 567-9014",
-    "type":"Non-secular Private",
-    "latlng":[35.95142269999999,-86.8578027]
-  },
-  {
-    "name":"Christ the King School",
-    "address":"3105 Belmont Boulevard",
-    "city":"Nashville",
-    "zip":"37212",
-    "county":"Davidson",
-    "grades":"PreK-8",
-    "website":"www.ctk.org",
-    "phone":"(615) 292-9465",
-    "type":"Religious Private- Catholic",
-    "latlng":[36.1183101,-86.79727559999999]
-  },
-  {
-    "name":"Davidson Academy",
-    "address":"1414 Old Hickory Boulevard",
-    "city":"Nashville",
-    "zip":"37207",
-    "county":"Davidson",
-    "grades":"PreK-12",
-    "website":"www.davidsonacademy.com",
-    "phone":"(615) 860-5300",
-    "type":"Religious Private- Christian",
-    "latlng":[36.0427651,-86.8282196]
-  },
-  {
-    "name":"Bambini Montessori",
-    "address":"2501 Lakeland Drive",
-    "city":"Nashville",
-    "zip":"37214",
-    "county":"Davidson",
-    "grades":"PreK-4th",
-    "website":"www.bambinimontessori.org",
-    "phone":"(615) 885-8772",
-    "type":"Non-secular Private",
-    "latlng":[36.155279,-86.68080499999999]
-  },
-  {
-    "name":"Davidson County Juvenile Detention Center",
-    "address":"100 Woodland Street",
-    "city":"Nashville",
-    "zip":"37213",
-    "county":"Davidson",
-    "grades":"7-12",
-    "website":"",
-    "phone":"(615) 862-8066   x71014",
-    "type":"Alternative",
-    "latlng":[36.1688766,-86.7712983]
-  },
-  {
-    "name":"Casa dei Montessori",
-    "address":"7646 Highway 70 South",
-    "city":"Nashville",
-    "zip":"37221",
-    "county":"Davidson",
-    "grades":"PreK-6",
-    "website":"www.casadeimontessori.com",
-    "phone":"(615) 673-8000",
-    "type":"Non-Public",
-    "latlng":[36.0796849,-86.9514748]
-  },
-  {
-    "name":"Currey Ingram Academy",
-    "address":"6544 Murray Lane",
-    "city":"Brentwood",
-    "zip":"37027",
-    "county":"",
-    "grades":"K-12",
-    "website":"http://www.curreyingram.org/",
-    "phone":"(615) 507-3242",
-    "type":"Non-secular Private",
-    "latlng":[36.0319206,-86.8592487]
-  },
-  {
-    "name":"Donelson Christian Academy",
-    "address":"300 Danyacrest Drive",
-    "city":"Nashville",
-    "zip":"37214",
-    "county":"Davidson",
-    "grades":"PreK-12",
-    "website":"www.dcawildcats.org",
-    "phone":"(615) 883-2926",
-    "type":"Religious Private- Christian",
-    "latlng":[36.1840686,-86.6508047]
-  },
-  {
-    "name":"DuPont Hadley Middle School",
-    "address":"1901 Old Hickory Bl",
-    "city":"Old Hickory",
-    "zip":"37138",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"(615) 847-7300",
-    "type":"Public Neighborhood",
-    "latlng":[36.2501682,-86.6429994]
-  },
-  {
-    "name":"F. H. Jenkins Elementary School",
-    "address":"814 Youngs Lane",
-    "city":"Nashville",
-    "zip":"37207",
-    "county":"Davidson",
-    "grades":"K-8",
-    "website":"www.fhjenkins.net",
-    "phone":"(615) 228-8827",
-    "type":"Religious Private- Christian",
-    "latlng":[36.2035901,-86.7994191]
-  },
-  {
-    "name":"Ensworth School",
-    "address":"211 Ensworth Avenue",
-    "city":"Nashville",
-    "zip":"37205",
-    "county":"Davidson",
-    "grades":"K-12",
-    "website":"www.ensworth.com",
-    "phone":"(615) 383-0661",
-    "type":"Non-secular Private",
-    "latlng":[36.1255546,-86.8400077]
-  },
-  {
-    "name":"Family Christian Academy",
-    "address":"925 Industrial Blvd",
-    "city":"Old Hickory",
-    "zip":"37138",
-    "county":"",
-    "grades":"K-12",
-    "website":"http://www.familychristianacademy.com/",
-    "phone":"(615) 847-3999",
-    "type":"Religious Private- Christian",
-    "latlng":[36.2659458,-86.6639294]
-  },
-  {
-    "name":"East End Preparatory School",
-    "address":"1460 McGavock Pike Nashville, TN ",
-    "city":"Nashville",
-    "zip":"37216",
-    "county":"Davidson",
-    "grades":"K-4th",
-    "website":"http://www.eastendprep.org/",
-    "phone":"(615) 630-7470",
-    "type":"Charter",
-    "latlng":[36.20613,-86.718369]
-  },
-  {
-    "name":"Ezell-Harding Christian School",
-    "address":"574 Bell Rd",
-    "city":"Antioch",
-    "zip":"37013",
-    "county":"",
-    "grades":"PK-12",
-    "website":"http://www.ezellharding.com/",
-    "phone":"(615) 367-0532",
-    "type":"Religious Private- Christian",
-    "latlng":[36.064963,-86.635097]
-  },
-  {
-    "name":"Franklin Road Academy",
-    "address":"4700 Franklin Road",
-    "city":"Nashville",
-    "zip":"37220",
-    "county":"Davidson",
-    "grades":"PK-12",
-    "website":"www.franklinroadacademy.com",
-    "phone":"(615) 832-8845",
-    "type":"Religious Private- Christian",
-    "latlng":[36.03726109999999,-86.7865791]
-  },
-  {
-    "name":"East Academy",
-    "address":"108 Chapel Ave",
-    "city":"Nashville",
-    "zip":"37206",
-    "county":"Davidson",
-    "grades":"K-8",
-    "website":"http://www.eastacademy.org/",
-    "phone":"(615)228-2284",
-    "type":"Non-secular Private",
-    "latlng":[36.1835508,-86.7355728]
-  },
-  {
-    "name":"Genesis Academy Nashville",
-    "address":"430 Allied Drive",
-    "city":"Nashville",
-    "zip":"37211",
-    "county":"Davidson",
-    "grades":"K-12",
-    "website":"www.genesislearn.org",
-    "phone":"(615) 832-4222",
-    "type":"Special Needs",
-    "latlng":[36.0963358,-86.7404632]
-  },
-  {
-    "name":"Explore! Community School",
-    "address":"217 S. 10th Street Nashville, TN ",
-    "city":"Nashville",
-    "zip":"37206",
-    "county":"Davidson",
-    "grades":"K",
-    "website":"http://www.explorecommunityschool.com/",
-    "phone":"(615) 784-8222",
-    "type":"Charter",
-    "latlng":[36.1744348,-86.75157639999999]
-  },
-  {
-    "name":"Gateway Academy at the Learning Lab",
-    "address":"3815 Cleghorn Avenue",
-    "city":"Nashville",
-    "zip":"37205",
-    "county":"Davidson",
-    "grades":"K-12",
-    "website":"www.mylearnlab.com",
-    "phone":"(615) 321-7272",
-    "type":"(Satellite home school)",
-    "latlng":[36.1086711,-86.81881760000002]
-  },
-  {
-    "name":"Goodpasture Christian School",
-    "address":"619 Due West Ave",
-    "city":"Madison",
-    "zip":"37115",
-    "county":"",
-    "grades":"PK-12",
-    "website":"http://www.goodpasture.org/",
-    "phone":"(615) 868-2600",
-    "type":"Religious Private- Christian",
-    "latlng":[36.2495102,-86.7387121]
-  },
-  {
-    "name":"G4S Academy for Young Women",
-    "address":"279 Stewarts Ferry Pike",
-    "city":"Nashville",
-    "zip":"37214",
-    "county":"Davidson",
-    "grades":"9-12",
-    "website":"www.g4s.us",
-    "phone":"615-921-8901 x114",
-    "type":"Non-Public",
-    "latlng":[36.1607265,-86.64474949999999]
-  },
-  {
-    "name":"Harding Academy",
-    "address":"170 Windsor Drive",
-    "city":"Nashville",
-    "zip":"37205",
-    "county":"Davidson",
-    "grades":"K-8",
-    "website":"www.hardingacademy.org",
-    "phone":"(615) 356-5510",
-    "type":"Non-secular Private",
-    "latlng":[36.1020942,-86.8674831]
-  },
-  {
-    "name":"Green Hills Child Development, LLC",
-    "address":"3420 Belmont Blvd.",
-    "city":"Nashville",
-    "zip":"37215",
-    "county":"Davidson",
-    "grades":"PreK-K",
-    "website":"",
-    "phone":"(615) 383-3373",
-    "type":"Religious Private- Christian",
-    "latlng":[36.1133788,-86.799433]
-  },
-  {
-    "name":"Father Ryan High School",
-    "address":"700 Norwood Drive",
-    "city":"Nashville",
-    "zip":"37204",
-    "county":"Davidson",
-    "grades":"9-12",
-    "website":"www.fatherryan.org",
-    "phone":"(615) 383-4200",
-    "type":"Religious Private- Catholic",
-    "latlng":[36.098267,-86.766018]
-  },
-  {
-    "name":"Haynes Health/ Medical Science Design Center",
-    "address":"510 West Trinity LA",
-    "city":"Nashville",
-    "zip":"37207",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"6152626688",
-    "type":"Public Neighborhood",
-    "latlng":[36.2074245,-86.7888918]
-  },
-  {
-    "name":"Harpeth Hall School",
-    "address":"3801 Hobbs Road",
-    "city":"Nashville",
-    "zip":"37215",
-    "county":"Davidson",
-    "grades":"5-12",
-    "website":"www.harpethhall.org",
-    "phone":"(615) 297-9543",
-    "type":"Non-secular Private (Girls)",
-    "latlng":[36.1015159,-86.840715]
-  },
-  {
-    "name":"Hendersonville Christian Academy",
-    "address":"355 Old Shackle Island Rd",
-    "city":"Hendersonville",
-    "zip":"37075",
-    "county":"",
-    "grades":"PK-12",
-    "website":"http://www.hcacrusaders.com/'",
-    "phone":"(615) 824-1550",
-    "type":"Religious Private- Christian",
-    "latlng":[36.3224181,-86.6198534]
-  },
-  {
-    "name":"Good Shepherd Child Center, LLC DBA Rosie's Playschool ",
-    "address":"414 Brewer Drive",
-    "city":"Nashville ",
-    "zip":"37211",
-    "county":"Davidson",
-    "grades":"PreK-K",
-    "website":"",
-    "phone":"615-834-8712",
-    "type":"Religious Private- Christian",
-    "latlng":[36.0536979,-86.7165042]
-  },
-  {
-    "name":"Holy Rosary Academy",
-    "address":"190 Graylynn Drive",
-    "city":"Nashville",
-    "zip":"37214",
-    "county":"Davidson",
-    "grades":"PreK-8",
-    "website":"www.holyrosary.edu",
-    "phone":"(615) 883-1108",
-    "type":"Religious Private- Catholic",
-    "latlng":[36.168428,-86.6754361]
-  },
-  {
-    "name":"Issiah T. Creswell Arts Magnet Middle School",
-    "address":"3500 John Mallette DR",
-    "city":"Nashville",
-    "zip":"37218",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"6152916515",
-    "type":"Magnet",
-    "latlng":[36.1956137,-86.8375095]
-  },
-  {
-    "name":"Holy Tree Christian Preschool",
-    "address":"3421 Old Anderson Rd",
-    "city":"Antioch",
-    "zip":"37013",
-    "county":"",
-    "grades":"6wk-5th",
-    "website":"http://www.hollytreechildcare.com/",
-    "phone":"(615) 366-1750",
-    "type":"",
-    "latlng":[36.0863439,-86.6047339]
-  },
-  {
-    "name":"Hermitage Elementary School",
-    "address":"3800 Plantation Dr",
-    "city":"Hermitage",
-    "zip":"37076",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"http://hermitagees.mnps.org/pages/Hermitage_Elementary_School",
-    "phone":"",
-    "type":"",
-    "latlng":[36.198087,-86.6362989]
-  },
-  {
-    "name":"Immaculate Conception School",
-    "address":"1901 Madison St",
-    "city":"Clarksville",
-    "zip":"37043",
-    "county":"",
-    "grades":"PK-8",
-    "website":"http://www.icschooltn.org/",
-    "phone":"(931) 645-1865",
-    "type":"Religious Private- Catholic",
-    "latlng":[36.515293,-87.30123999999999]
-  },
-  {
-    "name":"Jesus Only Academy",
-    "address":"324 Glenrose Ave.",
-    "city":"Nashville",
-    "zip":"37210",
-    "county":"Davidson",
-    "grades":"K-12",
-    "website":"www.jesusonlytabernacle.com/page1.html",
-    "phone":"(615) 242-6216",
-    "type":"Religious Private- Christian",
-    "latlng":[36.12563490000001,-86.74746379999999]
-  },
-  {
-    "name":"Jonathan Edwards Classical Academy",
-    "address":"1022 S. Graycroft",
-    "city":"Nashville",
-    "zip":"37115",
-    "county":"Davidson",
-    "grades":"K-6",
-    "website":"www.jecanashville.org",
-    "phone":"(615) 876-7291",
-    "type":"Religious Private- Christian",
-    "latlng":[36.2521666,-86.7362831]
-  },
-  {
-    "name":"Holy Trinity Montessori",
-    "address":"525 Sneed Road West",
-    "city":"Nashville",
-    "zip":"37221",
-    "county":"Williamson",
-    "grades":"PreK-4",
-    "website":"www.holytrinitymontessori.org",
-    "phone":"(615) 779-6309",
-    "type":"Religious Private- Christian",
-    "latlng":[36.030429,-86.962576]
-  },
-  {
-    "name":"John Trotwood Moore Middle",
-    "address":"4425 Granny White Pike",
-    "city":"Nashville",
-    "zip":"37215",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"http://www.mnps.org/pages/mnps/About_Us/MNPS_Schools/Middle_Schools/Middle_Preps_School_Profiles/J_T__Moore_Middle_School_Profi",
-    "phone":"",
-    "type":"",
-    "latlng":[36.095479,-86.802494]
-  },
-  {
-    "name":"Liberty Collegiate Academy (RePublic Schools)",
-    "address":"3515 Gallatin Road",
-    "city":"Nashville",
-    "zip":"37206",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"(615) 564-1974",
-    "type":"Charter",
-    "latlng":[36.21256,-86.73325500000001]
-  },
-  {
-    "name":"Madison Campus Elementary School",
-    "address":"1515 Sutherland Dr",
-    "city":"Madison",
-    "zip":"37115",
-    "county":"",
-    "grades":"K-8",
-    "website":"http://www.mcesda.org/",
-    "phone":"(615) 865-4575",
-    "type":"Religious Private- Seventh Day Adventist",
-    "latlng":[36.2508852,-86.67774039999999]
-  },
-  {
-    "name":"KIPP Nashville Collegiate High School (KIPP Nashville)",
-    "address":"123 Douglas Ave",
-    "city":"Nashville",
-    "zip":"37207",
-    "county":"Davidson",
-    "grades":"9th-12th",
-    "website":"",
-    "phone":"(615) 226-4484",
-    "type":"Charter",
-    "latlng":[36.19473,-86.769138]
-  },
-  {
-    "name":"KIPP Academy Nashville (KIPP Nashville)",
-    "address":"3410 Knight Drive ",
-    "city":"Whites Creek",
-    "zip":"37189",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"(615) 226-4484",
-    "type":"Charter",
-    "latlng":[36.2378687,-86.8037112]
-  },
-  {
-    "name":"Madison Academy",
-    "address":"100 Academy Rd",
-    "city":"Madison",
-    "zip":"37115",
-    "county":"",
-    "grades":"9th-12th",
-    "website":"http://www.madisonacademy.com/",
-    "phone":"(615) 865-4575",
-    "type":"Religious Private- Seventh Day Adventist",
-    "latlng":[40.7595044,-74.42427339999999]
-  },
-  {
-    "name":"Lipscomb Academy",
-    "address":"3901 Granny White Pike",
-    "city":"Nashville",
-    "zip":"37204-3951",
-    "county":"Davidson",
-    "grades":"PreK-12",
-    "website":"www.lipscomb.edu/dlcs/",
-    "phone":"(615) 269-1828",
-    "type":"Religious Private- Christian",
-    "latlng":[36.1050527,-86.7986592]
-  },
-  {
-    "name":"Middle College High",
-    "address":"120 White Bridge Rd",
-    "city":"Nashville",
-    "zip":"37209",
-    "county":"Davidson",
-    "grades":"10th-12th",
-    "website":"http://mchs.mnps.org/pages/MiddleCollegeHigh/About_Our_School/Attend_Our_School",
-    "phone":"(615) 353-3333",
-    "type":"Public Neighborhood",
-    "latlng":[36.1347304,-86.8571997]
-  },
-  {
-    "name":"Montessori Academy",
-    "address":"6021 Cloverland Dr",
-    "city":"Brentwood",
-    "zip":"37027",
-    "county":"",
-    "grades":"3 mo-8th",
-    "website":"http://www.montessoriacad.org/",
-    "phone":"(615) 833-3610",
-    "type":"Non-secular Private",
-    "latlng":[36.0278911,-86.74857229999999]
-  },
-  {
-    "name":"Montessori East",
-    "address":"801 Porter Road, Suite J",
-    "city":"Nashville",
-    "zip":"37206",
-    "county":"Davidson",
-    "grades":"PreK-K",
-    "website":"www.monteastnash.com",
-    "phone":"(615) 226-4588",
-    "type":"Non-secular Private",
-    "latlng":[36.1833643,-86.73217720000001]
-  },
-  {
-    "name":"Montessori Centre",
-    "address":"4608 Granny White Pike",
-    "city":"Nashville",
-    "zip":"37220",
-    "county":"Davidson",
-    "grades":"PreK-K",
-    "website":"www.montessoricentre.org",
-    "phone":"(615) 373-0897",
-    "type":"Non-secular Private",
-    "latlng":[36.0880134,-86.80283589999999]
-  },
-  {
-    "name":"Linden Waldorf School",
-    "address":"3201 Hillsboro Pike",
-    "city":"Nashville",
-    "zip":"37215",
-    "county":"Davidson",
-    "grades":"PK-8",
-    "website":"www.lindenwaldorf.org",
-    "phone":"(615) 354-0270",
-    "type":"Non-Public",
-    "latlng":[36.120021,-86.8100474]
-  },
-  {
-    "name":"Nashville Academy",
-    "address":"901 Benton Avenue",
-    "city":"Nashville",
-    "zip":"37204",
-    "county":"Davidson",
-    "grades":"9-12",
-    "website":"http://nashvilleacademy.info/default.aspx",
-    "phone":"(615) 330-9463",
-    "type":"Non-secular Private",
-    "latlng":[36.13134,-86.783052]
-  },
-  {
-    "name":"Mercy Ministries of America",
-    "address":"15328 Old Hickory Boulvard, PO Box 11060",
-    "city":"Nashville",
-    "zip":"37211",
-    "county":"Davidson",
-    "grades":"7-12",
-    "website":"www.mercyministries.com",
-    "phone":"(615) 831-6987",
-    "type":"Religious Private- Christian",
-    "latlng":[36.043445,-86.727222]
-  },
-  {
-    "name":"Montessori School of Franklin",
-    "address":"1325 W Main St Ste. G",
-    "city":"Franklin",
-    "zip":"37064",
-    "county":"",
-    "grades":"PreK-5th",
-    "website":"http://www.montessorifranklin.org/",
-    "phone":"(615) 794-0567",
-    "type":"Non-secular Private",
-    "latlng":[35.91401700000001,-86.883743]
-  },
-  {
-    "name":"Montgomery Bell Academy",
-    "address":"4001 Harding Road",
-    "city":"Nashville",
-    "zip":"37205",
-    "county":"Davidson",
-    "grades":"7-12",
-    "website":"www.montgomerybell.edu",
-    "phone":"(615) 298-5514",
-    "type":"Non-secular (Boys)",
-    "latlng":[36.1284249,-86.8366934]
-  },
-  {
-    "name":"Nashville Academy of Computer Science (RePublic Schools)",
-    "address":"3307 Brick Church Pike",
-    "city":"Nashville",
-    "zip":"",
-    "county":"Davidson",
-    "grades":"5th-6th",
-    "website":"",
-    "phone":"",
-    "type":"Charter",
-    "latlng":[36.2424157,-86.7790819]
-  },
-  {
-    "name":"Nashville International Academy",
-    "address":"7335 Charlotte Pike",
-    "city":"Nashville",
-    "zip":"37209",
-    "county":"Davidson",
-    "grades":"PreK-6",
-    "website":"http://niatn.org/",
-    "phone":"(615) 352-5903",
-    "type":"Religious Private- Islamic",
-    "latlng":[36.116463,-86.91988599999999]
-  },
-  {
-    "name":"Our Savior Lutheran Academy and Preschool",
-    "address":"5110 Franklin Road",
-    "city":"Nashville",
-    "zip":"37220",
-    "county":"Davidson",
-    "grades":"PreK-K",
-    "website":"www.oslanashville.org",
-    "phone":"(615) 833-1500",
-    "type":"Religious Private- Christian",
-    "latlng":[36.03726109999999,-86.7865791]
-  },
-  {
-    "name":"Old Center Elementary School",
-    "address":"1245 Dickerson Pk",
-    "city":"Goodlettsville",
-    "zip":"37072",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"(615) 859-8968",
-    "type":"Public Neighborhood",
-    "latlng":[36.2914438,-86.73788379999999]
-  },
-  {
-    "name":"Oak Hill School, The",
-    "address":"4815 Franklin Road",
-    "city":"Nashville",
-    "zip":"37220-1198",
-    "county":"Davidson",
-    "grades":"PreK-6",
-    "website":"www.oakhillschool.org",
-    "phone":"(615) 297-6544",
-    "type":"Religious Private- Christian",
-    "latlng":[36.0379826,-86.7864056]
-  },
-  {
-    "name":"Overbrook School",
-    "address":"4210 Harding Road",
-    "city":"Nashville",
-    "zip":"37205",
-    "county":"Davidson",
-    "grades":"PreK-8",
-    "website":"www.overbrook.edu",
-    "phone":"(615) 292-5134",
-    "type":"Religious Private- Catholic",
-    "latlng":[36.1321007,-86.8446216]
-  },
-  {
-    "name":"New Children First, A Montessori Community",
-    "address":"1710 Woodmont Blvd.",
-    "city":"Nashville",
-    "zip":"37215",
-    "county":"Davidson",
-    "grades":"PreK-3",
-    "website":"www.childrenfirstmontessori.org",
-    "phone":"(615) 292-9938",
-    "type":"Non-secular Private",
-    "latlng":[36.114083,-86.8041609]
-  },
-  {
-    "name":"Radnor Baptists Academy",
-    "address":"3112 Nolensville Rd",
-    "city":"Nashville",
-    "zip":"37211",
-    "county":"",
-    "grades":"PK-12",
-    "website":"http://www.radnorbaptistacademy.org/",
-    "phone":"(615) 832-2004",
-    "type":"Religious Private- Christian",
-    "latlng":[36.1017703,-86.7405167]
-  },
-  {
-    "name":"Robert Churchwell Museum Magnet Elementary School",
-    "address":"1625 Dr. D. B. Todd Jr. BL",
-    "city":"Nashville",
-    "zip":"37208",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6156874024",
-    "type":"Magnet",
-    "latlng":[36.1755216,-86.8101051]
-  },
-  {
-    "name":"Smith Springs Elementary School",
-    "address":"3132 Smith Springs Rd",
-    "city":"Antioch",
-    "zip":"37013",
-    "county":"Davidson",
-    "grades":"PreK-4",
-    "website":"http://smithspringses.mnps.org/",
-    "phone":"",
-    "type":"Public Neighborhood",
-    "latlng":[36.08292,-86.595602]
-  },
-  {
-    "name":"River Road Academy (formerly Community High School)",
-    "address":"8283 River Road; P.O. Box 907227",
-    "city":"Nashville",
-    "zip":"37209",
-    "county":"Davidson",
-    "grades":"9-12",
-    "website":"www.cumberlandheights.org/locations/river_road.aspx",
-    "phone":"(615) 432-3165",
-    "type":"Alternative",
-    "latlng":[36.1540427,-86.95066829999999]
-  },
-  {
-    "name":"Smithson Craighead Academy",
-    "address":"3307 Brick Church Pike Nashville, TN 37207",
-    "city":"Nashville",
-    "zip":"37207",
-    "county":"Davidson",
-    "grades":"K-4th",
-    "website":"",
-    "phone":"(615) 228-9886",
-    "type":"Charter",
-    "latlng":[36.2424157,-86.7790819]
-  },
-  {
-    "name":"Pope John Paul II High School",
-    "address":"117 Caldwell Dr",
-    "city":"Hendersonville",
-    "zip":"37075",
-    "county":"",
-    "grades":"9th-12th",
-    "website":"http://www.jp2hs.org/",
-    "phone":"(615) 822-2375",
-    "type":"Religious Private- Catholic",
-    "latlng":[36.3160412,-86.6699431]
-  },
-  {
-    "name":"May Werthan Shayne Elementary School",
-    "address":"6217 Nolensville RD",
-    "city":"Nashville",
-    "zip":"37211",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6153323020",
-    "type":"Public Neighborhood",
-    "latlng":[36.0170451,-86.7070111]
-  },
-  {
-    "name":"Monroe Carell Jr. Children's  Hospital at Vanderbilt",
-    "address":"2200 Children's Way, Suite 2117",
-    "city":"Nashville",
-    "zip":"37232",
-    "county":"Davidson",
-    "grades":"K-12",
-    "website":"",
-    "phone":"(615) 343-4299",
-    "type":"(Satellite home school)",
-    "latlng":[36.1393608,-86.8024197]
-  },
-  {
-    "name":"Lighthouse Christian Academy",
-    "address":"P.O. Box 160328 ",
-    "city":"Nashville",
-    "zip":"37216",
-    "county":"Davidson",
-    "grades":"K-12",
-    "website":"",
-    "phone":"(615) 612-2502",
-    "type":"Religious Private- Christian",
-    "latlng":[36.1626638,-86.7816016]
-  },
-  {
-    "name":"Nashville Christian School",
-    "address":"7555 Sawyer Brown Road",
-    "city":"Nashville",
-    "zip":"37221",
-    "county":"Davidson",
-    "grades":"PK-12",
-    "website":"www.nashvillechristian.org",
-    "phone":"(615) 356-5600",
-    "type":"Religious Private- Christian",
-    "latlng":[36.106847,-86.9321159]
-  },
-  {
-    "name":"Nashville Christian Advancement Academy",
-    "address":"3551 Dickerson Pike",
-    "city":"Nashville",
-    "zip":"37207",
-    "county":"Davidson",
-    "grades":"K-12",
-    "website":"www.ncaacademy.org",
-    "phone":"(615-860-3740",
-    "type":"Religious Private- Christian",
-    "latlng":[36.254654,-86.756456]
-  },
-  {
-    "name":"St. Bernard Academy",
-    "address":"2020 24th Avenue, South",
-    "city":"Nashville",
-    "zip":"37212",
-    "county":"Davidson",
-    "grades":"PreK-8",
-    "website":"www.stbernardacademy.org",
-    "phone":"(615) 385-0440 x203",
-    "type":"Religious Private- Catholic",
-    "latlng":[36.1321866,-86.8055703]
-  },
-  {
-    "name":"St. Ann School",
-    "address":"5105 Charlotte Avenue",
-    "city":"Nashville",
-    "zip":"37209",
-    "county":"Davidson",
-    "grades":"K-8",
-    "website":"www.saintannparish.com/school/",
-    "phone":"(615) 269-0568",
-    "type":"Religious Private- Catholic",
-    "latlng":[36.1516838,-86.8495519]
-  },
-  {
-    "name":"St. Edward School",
-    "address":"190 Thompson Lane",
-    "city":"Nashville",
-    "zip":"37211",
-    "county":"Davidson",
-    "grades":"PreK-8",
-    "website":"www.stedward.org",
-    "phone":"(615) 833-5770",
-    "type":"Religious Private- Catholic",
-    "latlng":[36.1109953,-86.73976739999999]
-  },
-  {
-    "name":"Spring Hill Christian Academy",
-    "address":"3015 Bellshire Village Dr.",
-    "city":"Spring Hill",
-    "zip":"37174",
-    "county":"",
-    "grades":"K-12",
-    "website":"http://shchristian.com/",
-    "phone":"(615) 435-9476",
-    "type":"Religious Private- Nondenominational",
-    "latlng":[35.7695566,-86.92007029999999]
-  },
-  {
-    "name":"St. Pius X Classical Academy",
-    "address":"2750 Tucker Road",
-    "city":"Nashville",
-    "zip":"37218",
-    "county":"Davidson",
-    "grades":"PreK-8",
-    "website":"www.stpiusnashville.org",
-    "phone":"(615) 255-2049",
-    "type":"Religious Private- Catholic",
-    "latlng":[36.209525,-86.82258]
-  },
-  {
-    "name":"St. Cecilia Academy",
-    "address":"4210 Harding Road",
-    "city":"Nashville",
-    "zip":"37205",
-    "county":"Davidson",
-    "grades":"9-12",
-    "website":"www.stcecilia.edu",
-    "phone":"(615) 298-4525",
-    "type":"Religious Private- Catholic",
-    "latlng":[36.1321007,-86.8446216]
-  },
-  {
-    "name":"St. Clement Coptic Orthodox Christian Academy",
-    "address":"476 McMurray Drive",
-    "city":"Nashville",
-    "zip":"37211",
-    "county":"Davidson",
-    "grades":"PreK-7",
-    "website":"www.stclementacademy.com",
-    "phone":"(615) 333-9281",
-    "type":"Religious Private- Catholic",
-    "latlng":[36.0592789, -86.72304689999999]
-  },
-  {
-    "name":"Ruby Major Elementary School",
-    "address":"5141 John Hager Rd",
-    "city":"Hermitage",
-    "zip":"37076",
-    "county":"Davidson",
-    "grades":"K-4th",
-    "website":"",
-    "phone":"(615) 232-2203",
-    "type":"Public Neighborhood",
-    "latlng":[36.1557283,-86.5785801]
-  },
-  {
-    "name":"St. Henry School",
-    "address":"6401 Harding Road",
-    "city":"Nashville",
-    "zip":"37205",
-    "county":"Davidson",
-    "grades":"PreK-8",
-    "website":"www.sthenryschool.org",
-    "phone":"(615) 352-1328",
-    "type":"Religious Private- Catholic",
-    "latlng":[36.09043400000001,-86.887068]
-  },
-  {
-    "name":"Stratford STEM Magnet High School",
-    "address":"1800 Stratford AV",
-    "city":"Nashville",
-    "zip":"37216",
-    "county":"Davidson",
-    "grades":"9th-12th",
-    "website":"",
-    "phone":"6152626730",
-    "type":"Magnet",
-    "latlng":[36.1982519,-86.718313]
-  },
-  {
-    "name":"The Academy at Hickory Hollow",
-    "address":"5248 Hickory Hollow Pw",
-    "city":"Antioch",
-    "zip":"37013",
-    "county":"Davidson",
-    "grades":"11-12th",
-    "website":"",
-    "phone":"(615) 687-4028",
-    "type":"Public Neighborhood",
-    "latlng":[36.0494366,-86.6567204]
-  },
-  {
-    "name":"St. Matthew School",
-    "address":"533 Sneed Rd. W",
-    "city":"Franklin",
-    "zip":"37069",
-    "county":"",
-    "grades":"K-8",
-    "website":"http://www.churchofstmatthew.org/sms/Home.aspx",
-    "phone":"(615) 662-4044",
-    "type":"Religious Private- Catholic",
-    "latlng":[36.0286478,-86.9585749]
-  },
-  {
-    "name":"Stratton Elementary School",
-    "address":"310 Old Hickory Blvd",
-    "city":"Madison",
-    "zip":"37115",
-    "county":"Davidson",
-    "grades":"K-4th",
-    "website":"",
-    "phone":"(615) 860-1486",
-    "type":"Public Neighborhood",
-    "latlng":[36.2649178,-86.717428]
-  },
-  {
-    "name":"The Covenant School",
-    "address":"33 Burton Hills Blvd",
-    "city":"Nashville",
-    "zip":"37215",
-    "county":"Davidson",
-    "grades":"PreK-6",
-    "website":"www.thecovenantschool.com ",
-    "phone":"(615) 467-2313",
-    "type":"Religious Private- Christian",
-    "latlng":[36.0932101,-86.82577810000001]
-  },
-  {
-    "name":"The Academy at Old Cockrill",
-    "address":"610 49th AV",
-    "city":"Nashville",
-    "zip":"37209",
-    "county":"Davidson",
-    "grades":"9th-12th",
-    "website":"",
-    "phone":"6152594636",
-    "type":"Public Neighborhood",
-    "latlng":[36.15516100000001,-86.84557590000001]
-  },
-  {
-    "name":"Tulip Grove Elementary",
-    "address":"441 Tyler Dr",
-    "city":"Hermitage",
-    "zip":"37076",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"(615) 885-8944",
-    "type":"Public Neighborhood",
-    "latlng":[36.1985304,-86.6109218]
-  },
-  {
-    "name":"Sumner Academy",
-    "address":"464 Nichols Ln",
-    "city":"Gallatin",
-    "zip":"37066",
-    "county":"",
-    "grades":"PK-8",
-    "website":"http://www.sumneracademy.org/",
-    "phone":"(615) 452-1914",
-    "type":"Non-secular Private",
-    "latlng":[36.3631296,-86.4610951]
-  },
-  {
-    "name":"The Montessori School of Donelson",
-    "address":"2525-B Lebanon Pike",
-    "city":"Nashville",
-    "zip":"37214",
-    "county":"Davidson",
-    "grades":"PreK-K",
-    "website":"www.montessoridonelson.org",
-    "phone":"615-872-0101",
-    "type":"Non-secular Private",
-    "latlng":[36.1693443,-86.677466]
-  },
-  {
-    "name":"Sumit Christian Academy",
-    "address":"5100 Almaville Road",
-    "city":"Smyrna",
-    "zip":"37167",
-    "county":"",
-    "grades":"K-5th",
-    "website":"http://www.summitchristiantn.com/",
-    "phone":"(615) 656-7866",
-    "type":"Religious Private- Nondenominational",
-    "latlng":[35.9002121,-86.5639594]
-  },
-  {
-    "name":"St. Paul Christian Academy",
-    "address":"5035 Hillsboro Road",
-    "city":"Nashville",
-    "zip":"37215",
-    "county":"Davidson",
-    "grades":"K-6",
-    "website":"http://stpaulchristianacademy.org",
-    "phone":"(615) 269-4751",
-    "type":"Religious Private- Catholic",
-    "latlng":[36.097609,-86.825137]
-  },
-  {
-    "name":"University School of Nashville",
-    "address":"2000 Edgehill Avenue",
-    "city":"Nashville",
-    "zip":"37212",
-    "county":"Davidson",
-    "grades":"K-12",
-    "website":"www.usn.org",
-    "phone":"(615) 327-3812",
-    "type":"Non-secular Private",
-    "latlng":[36.144355,-86.7984872]
-  },
-  {
-    "name":"Thomas A Edison Elementary School",
-    "address":"6130 Mt. View Rd",
-    "city":"Antioch",
-    "zip":"37013",
-    "county":"Davidson",
-    "grades":"PK-5",
-    "website":"",
-    "phone":"(615) 501-8800",
-    "type":"Public Neighborhood",
-    "latlng":[37.9833517,-121.8187688]
-  },
-  {
-    "name":"PB & J Day School",
-    "address":"120 Werthan Circle",
-    "city":"Franklin",
-    "zip":"37064",
-    "county":"",
-    "grades":"PreK",
-    "website":"http://www.pbjdayschool.com/",
-    "phone":"(615) 599-6999",
-    "type":"Non-secular Private",
-    "latlng":[35.9051656,-86.8790212]
-  },
-  {
-    "name":"Smithson-craighhead Middle School",
-    "address":"730 Neely's Bend Rd Madison, TN 37115",
-    "city":"Madison",
-    "zip":"37115",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"(615) 228-1200",
-    "type":"Charter",
-    "latlng":[36.2503389,-86.696989]
-  },
-  {
-    "name":"Spectrum Academy",
-    "address":"3125 Ironwood Drive",
-    "city":"Nashville",
-    "zip":"37214",
-    "county":"Davidson",
-    "grades":"7-12",
-    "website":"www.spectrumschools.com",
-    "phone":"(615) 866-9273",
-    "type":"Special Needs",
-    "latlng":[36.154589,-86.652239]
-  },
-  {
-    "name":"Tusculum Elementary",
-    "address":"4917 Nolensville RD",
-    "city":"Nashville",
-    "zip":"37211",
-    "county":"Davidson",
-    "grades":"K-4th",
-    "website":"",
-    "phone":"6153335179",
-    "type":"Public Neighborhood",
-    "latlng":[36.063767,-86.7170915]
-  },
-  {
-    "name":"St. Joseph School",
-    "address":"1225 Gallatin Rd S",
-    "city":"Madison",
-    "zip":"37115",
-    "county":"",
-    "grades":"PK-8",
-    "website":"http://www.stjosephnashville.org/",
-    "phone":"(615) 865-1491",
-    "type":"Religious Private- Catholic",
-    "latlng":[36.24486,-86.72097590000001]
-  },
-  {
-    "name":"St. Rose of Lima Catholic School",
-    "address":"1601 North Tennessee Blvd",
-    "city":"Murfreesboro",
-    "zip":"37130",
-    "county":"",
-    "grades":"PK-8",
-    "website":"http://www.school.saintrose.org/pages/Saint_Rose_of_Lima_Catholic_Sc",
-    "phone":"(615) 255-2049",
-    "type":"Religious Private- Catholic",
-    "latlng":[35.8651088,-86.3700995]
-  },
-  {
-    "name":"W.A. Bass Alternative Learning Center",
-    "address":"5200 Delaware AV",
-    "city":"Nashville",
-    "zip":"37209",
-    "county":"Davidson",
-    "grades":"9th-12th",
-    "website":"",
-    "phone":"6152983278",
-    "type":"Alternative",
-    "latlng":[36.154552,-86.851366]
-  },
-  {
-    "name":"Westmeade Elementary",
-    "address":"6641 Clearbrook DR",
-    "city":"Nashville",
-    "zip":"37205",
-    "county":"Davidson",
-    "grades":"K-4th",
-    "website":"",
-    "phone":"6153532066",
-    "type":"Public Neighborhood",
-    "latlng":[36.0922849,-86.89331790000001]
-  },
-  {
-    "name":"A.Z. Kelley Elementary School",
-    "address":"5834 Pettus Rd",
-    "city":"Antioch",
-    "zip":"37013",
-    "county":"Davidson",
-    "grades":"KG-4",
-    "website":"",
-    "phone":"(615) 941-7535",
-    "type":"Public Neighborhood",
-    "latlng":[36.0224365,-86.6646225]
-  },
-  {
-    "name":"Two Rivers Middle School",
-    "address":"2991 McGavock PK",
-    "city":"Nashville",
-    "zip":"37214",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"6158858931",
-    "type":"Public Neighborhood",
-    "latlng":[36.1945329,-86.674363]
-  },
-  {
-    "name":"The Academy at Opry Mills",
-    "address":"433 Opry Mills DR",
-    "city":"Nashville",
-    "zip":"37214",
-    "county":"Davidson",
-    "grades":"9th-12th",
-    "website":"",
-    "phone":"6156874028",
-    "type":"Public Neighborhood",
-    "latlng":[36.2033511,-86.6930576]
-  },
-  {
-    "name":"Thurgood Marshall Middle School",
-    "address":"5820 Pettus Rd",
-    "city":"Antioch",
-    "zip":"37013",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"(615) 941-7515",
-    "type":"Public Neighborhood",
-    "latlng":[36.024278,-86.6638509]
-  },
-  {
-    "name":"Antioch High School",
-    "address":"1900 Hobson Pk",
-    "city":"Antioch",
-    "zip":"37013",
-    "county":"Davidson",
-    "grades":"9th-12th",
-    "website":"",
-    "phone":"(615) 641-5400",
-    "type":"Public Neighborhood",
-    "latlng":[36.0462375,-86.59877329999999]
-  },
-  {
-    "name":"Warner Elementary Enhanced Option School",
-    "address":"626 Russell ST",
-    "city":"Nashville",
-    "zip":"37206",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152916395",
-    "type":"Magnet",
-    "latlng":[36.171852,-86.759976]
-  },
-  {
-    "name":"Amqui Elementary School ",
-    "address":"319 Anderson La",
-    "city":"Madison",
-    "zip":"37115",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"(615) 612-3678",
-    "type":"Public Neighborhood",
-    "latlng":[36.2738689,-86.7040291]
-  },
-  {
-    "name":"Andrew Jackson Elementary School",
-    "address":"110 Shute La",
-    "city":"Old Hickory",
-    "zip":"37138",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"(615) 847-7317",
-    "type":"Public Neighborhood",
-    "latlng":[36.2314682,-86.6229085]
-  },
-  {
-    "name":"Alex Green Elementary School",
-    "address":"3921 Lloyd Rd",
-    "city":"Whites Creek",
-    "zip":"37189",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"(615) 876-5105",
-    "type":"Public Neighborhood",
-    "latlng":[36.2537667,-86.8307537]
-  },
-  {
-    "name":"Bellshire Elementary Design Center",
-    "address":"1128 Bell Grimes LA",
-    "city":"Nashville",
-    "zip":"37207",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6158601452",
-    "type":"Magnet",
-    "latlng":[36.2698347,-86.76200209999999]
-  },
-  {
-    "name":"Stanford Elementary Montessori Design Center",
-    "address":"2417 Maplecrest DR",
-    "city":"Nashville",
-    "zip":"37214",
-    "county":"Davidson",
-    "grades":"9th-12th",
-    "website":"",
-    "phone":"6158858822",
-    "type":"Magnet",
-    "latlng":[36.17646149999999,-86.6824369]
-  },
-  {
-    "name":"Carter Lawrence Elementary Magnet",
-    "address":"1118 12th Avenue South",
-    "city":"Nashville",
-    "zip":"37203",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152917333",
-    "type":"Magnet",
-    "latlng":[36.1434347,-86.7862291]
-  },
-  {
-    "name":"Buena Vista Elementary Enhanced Option",
-    "address":"1531 9th Avenue North",
-    "city":"Nashville",
-    "zip":"37208",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152916762",
-    "type":"Magnet",
-    "latlng":[36.1777839,-86.79862469999999]
-  },
-  {
-    "name":"St. John Vianney School",
-    "address":"501 North Water St",
-    "city":"Gallatin",
-    "zip":"37066",
-    "county":"",
-    "grades":"PK-8",
-    "website":"http://www.saintjohnvianney.org/",
-    "phone":"(615) 230-7048",
-    "type":"Religious Private- Catholic",
-    "latlng":[36.39637889999999,-86.44541380000001]
-  },
-  {
-    "name":"Bordeaux Elementary Enhanced Option",
-    "address":"1910 South Hamilton RD",
-    "city":"Nashville",
-    "zip":"37218",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152916355",
-    "type":"Magnet",
-    "latlng":[36.19138100000001,-86.83236]
-  },
-  {
-    "name":"Bailey STEM Magnet Middle",
-    "address":"2000 Greenwood AV",
-    "city":"Nashville",
-    "zip":"37206",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"6152626670",
-    "type":"Magnet",
-    "latlng":[36.188165,-86.73264499999999]
-  },
-  {
-    "name":"Woodbine Christian Academy",
-    "address":"2204 Foster Ave",
-    "city":"Nashville",
-    "zip":"37210",
-    "county":"",
-    "grades":"PK-8",
-    "website":"http://www.woodbineca.org/",
-    "phone":"(615) 254-7588",
-    "type":"Religious Private- Christian",
-    "latlng":[36.124802,-86.74196200000002]
-  },
-  {
-    "name":"Cane Ridge High School",
-    "address":"12848 Old Hickory Blvd",
-    "city":"Antioch",
-    "zip":"37013",
-    "county":"Davidson",
-    "grades":"9th-12th",
-    "website":"",
-    "phone":"(615) 687-4000",
-    "type":"Public Neighborhood",
-    "latlng":[36.0301898,-86.6202308]
-  },
-  {
-    "name":"Caldwell Elem. Enhanced Option",
-    "address":"401 Meridian ST",
-    "city":"Nashville",
-    "zip":"37207",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152916361",
-    "type":"Magnet",
-    "latlng":[36.178297,-86.76875299999999]
-  },
-  {
-    "name":"Cole Elementary",
-    "address":"5060 Colemont Dr",
-    "city":"Antioch",
-    "zip":"37013",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"(615) 333-5043",
-    "type":"Public Neighborhood",
-    "latlng":[36.05771,-86.698326]
-  },
-  {
-    "name":"Charlotte Park Elementary",
-    "address":"480 Annex AV",
-    "city":"Nashville",
-    "zip":"37209",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6153532006",
-    "type":"Public Neighborhood",
-    "latlng":[36.15059,-86.88287299999999]
-  },
-  {
-    "name":"Dan Mills Elementary",
-    "address":"4106 Kennedy AV",
-    "city":"Nashville",
-    "zip":"37216",
-    "county":"",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152626677",
-    "type":"Public Neighborhood",
-    "latlng":[36.2180553,-86.7164251]
-  },
-  {
-    "name":"Whites Creek High School",
-    "address":"7277 Old Hickory Bl",
-    "city":"Whites Creek",
-    "zip":"37189",
-    "county":"Davidson",
-    "grades":"9th-12th",
-    "website":"",
-    "phone":"(615) 876-5132",
-    "type":"Public Neighborhood",
-    "latlng":[36.276274,-86.8184644]
-  },
-  {
-    "name":"Antioch Middle",
-    "address":"5050 Blue Hole Rd",
-    "city":"Antioch",
-    "zip":"37013",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"(615) 333-5642",
-    "type":"Public Neighborhood",
-    "latlng":[36.0566283,-86.6714648]
-  },
-  {
-    "name":"Bellevue Middle School",
-    "address":"655 Colice Jeanne RD",
-    "city":"Nashville",
-    "zip":"37221",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"6156623000",
-    "type":"Magnet",
-    "latlng":[36.0705527,-86.9351976]
-  },
-  {
-    "name":"Cockrill Elementary",
-    "address":"4701 Indiana AV",
-    "city":"Nashville",
-    "zip":"37209",
-    "county":"",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152988075",
-    "type":"Public Neighborhood",
-    "latlng":[36.1557938,-86.84494780000001]
-  },
-  {
-    "name":"DuPont Elementary",
-    "address":"1311 9th St",
-    "city":"Old Hickory",
-    "zip":"37138",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"(615) 8847-7305",
-    "type":"Public Neighborhood",
-    "latlng":[36.260307,-86.652637]
-  },
-  {
-    "name":"DuPont Tyler Middle School",
-    "address":"431 Tyler Dr",
-    "city":"Hermitage",
-    "zip":"37076",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"(615) 885-8827",
-    "type":"Public Neighborhood",
-    "latlng":[36.1994301,-86.6115978]
-  },
-  {
-    "name":"Eakin Elementary School",
-    "address":"2500 Fairfax AV",
-    "city":"Nashville",
-    "zip":"37212",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152988076",
-    "type":"Public Neighborhood",
-    "latlng":[36.1356073,-86.8080064]
-  },
-  {
-    "name":"Baxter Alternative Learning Center",
-    "address":"3515 Gallatin RD",
-    "city":"Nashville",
-    "zip":"37216",
-    "county":"Davidson",
-    "grades":"",
-    "website":"",
-    "phone":"6156505381",
-    "type":"Alternative",
-    "latlng":[36.21256,-86.73325500000001]
-  },
-  {
-    "name":"Cumberland Elementary",
-    "address":"4247 Cato RD",
-    "city":"Nashville",
-    "zip":"37218",
-    "county":"",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152916370",
-    "type":"Public Neighborhood",
-    "latlng":[36.212192,-86.8678933]
-  },
-  {
-    "name":"Apollo Middle School",
-    "address":"631 Richards Rd",
-    "city":"Antioch",
-    "zip":"37013",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"(615) 333-5025",
-    "type":"Public Neighborhood",
-    "latlng":[36.0666023,-86.66417919999999]
-  },
-  {
-    "name":"Donelson Middle School",
-    "address":"110 Stewarts Ferry PK",
-    "city":"Nashville",
-    "zip":"37214",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"6158844080",
-    "type":"Public Neighborhood",
-    "latlng":[36.1653928,-86.656932]
-  },
-  {
-    "name":"Chadwell Elementary School",
-    "address":"321 Port Dr",
-    "city":"Madison",
-    "zip":"37115",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"(615) 860-1459",
-    "type":"Public Neighborhood",
-    "latlng":[36.2566778,-86.7412153]
-  },
-  {
-    "name":"Glendale Spanish Immersion Elementary School",
-    "address":"800 Thompson AV",
-    "city":"Nashville",
-    "zip":"37204",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152797970",
-    "type":"Magnet",
-    "latlng":[36.0954871,-86.78506469999999]
-  },
-  {
-    "name":"Glencliff Elementary",
-    "address":"120 Antioch PK",
-    "city":"Nashville",
-    "zip":"37211",
-    "county":"Davidson",
-    "grades":"K-4th",
-    "website":"",
-    "phone":"6153335105",
-    "type":"Public Neighborhood",
-    "latlng":[36.10202,-86.72287]
-  },
-  {
-    "name":"Cora Howe School",
-    "address":"1928 Greenwood AV",
-    "city":"Nashville",
-    "zip":"37206",
-    "county":"",
-    "grades":"K-12",
-    "website":"",
-    "phone":"6156122545",
-    "type":"Special Needs",
-    "latlng":[36.188406,-86.73502099999999]
-  },
-  {
-    "name":"Crieve Hall Elementary",
-    "address":"498 Hogan RD",
-    "city":"Nashville",
-    "zip":"37220",
-    "county":"",
-    "grades":"K-4th",
-    "website":"",
-    "phone":"6153335059",
-    "type":"Public Neighborhood",
-    "latlng":[36.0655853,-86.7583994]
-  },
-  {
-    "name":"Gra-Mar Middle School",
-    "address":"575 Joyce LA",
-    "city":"Nashville",
-    "zip":"37216",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"6152626685",
-    "type":"Public Neighborhood",
-    "latlng":[36.2329554,-86.74547869999999]
-  },
-  {
-    "name":"Croft Middle Design Center",
-    "address":"482 Elysian Fields DR",
-    "city":"Nashville",
-    "zip":"37211",
-    "county":"",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"6153320217",
-    "type":"Magnet",
-    "latlng":[36.087975,-86.7342611]
-  },
-  {
-    "name":"Cane Ridge Elementary",
-    "address":"3884 Asheford Trace",
-    "city":"Antioch",
-    "zip":"37013",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"(615) 641-7824",
-    "type":"Public Neighborhood",
-    "latlng":[36.0400064,-86.61763789999999]
-  },
-  {
-    "name":"Gower Elementary",
-    "address":"650 Old Hickory BL",
-    "city":"Nashville",
-    "zip":"37209",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6153532012",
-    "type":"Public Neighborhood",
-    "latlng":[36.115374,-86.921522]
-  },
-  {
-    "name":"Goodletsville Elementary School",
-    "address":"514 Donald St",
-    "city":"Goodlettsville",
-    "zip":"37072",
-    "county":"Davidson",
-    "grades":"KG-4",
-    "website":"",
-    "phone":"(615) 859-8950",
-    "type":"Public Neighborhood",
-    "latlng":[36.3130697,-86.7103401]
-  },
-  {
-    "name":"Gateway Elementary School",
-    "address":"1524 Moticello Av",
-    "city":"Madison",
-    "zip":"37115",
-    "county":"Davidson",
-    "grades":"K-4th",
-    "website":"",
-    "phone":"(615) 860-1465",
-    "type":"Public Neighborhood",
-    "latlng":[36.292344,-86.711051]
-  },
-  {
-    "name":"Glenview Elementary",
-    "address":"1020 Patricia DR",
-    "city":"Nashville",
-    "zip":"37217",
-    "county":"Davidson",
-    "grades":"K-4th",
-    "website":"",
-    "phone":"6153602906",
-    "type":"Public Neighborhood",
-    "latlng":[36.1278858,-86.7066]
-  },
-  {
-    "name":"Harris-Hillman Special",
-    "address":"1706 26th Avenue South",
-    "city":"Nashville",
-    "zip":"37212",
-    "county":"Davidson",
-    "grades":"PK-12",
-    "website":"",
-    "phone":"6152988085",
-    "type":"Special Needs",
-    "latlng":[36.1373746,-86.8070383]
-  },
-  {
-    "name":"Glencliff Comp High School",
-    "address":"160 Antioch PK",
-    "city":"Nashville",
-    "zip":"37211",
-    "county":"Davidson",
-    "grades":"9th-12th",
-    "website":"",
-    "phone":"6153335070",
-    "type":"Public Neighborhood",
-    "latlng":[36.1020074,-86.7272172]
-  },
-  {
-    "name":"Fall- Hamilton Elementary Enhanced Option",
-    "address":"510 Wedgewood AV",
-    "city":"Nashville",
-    "zip":"37203",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152916380",
-    "type":"Magnet",
-    "latlng":[36.1331189,-86.7662952]
-  },
-  {
-    "name":"Grow Academy ",
-    "address":"830 Kirkwood Avenue",
-    "city":"Nashville ",
-    "zip":"37204",
-    "county":"Davidson",
-    "grades":"PreK-K",
-    "website":"",
-    "phone":"615-810-9970",
-    "type":"Religious Private- Christian",
-    "latlng":[36.1210058,-86.7797184]
-  },
-  {
-    "name":"Henry Maxwell Elementary School",
-    "address":"5535 Blue Hole Rd",
-    "city":"Antioch",
-    "zip":"37013",
-    "county":"Davidson",
-    "grades":"K-5",
-    "website":"",
-    "phone":"(615) 333-7180",
-    "type":"Public Neighborhood",
-    "latlng":[36.0309362,-86.6739885]
-  },
-  {
-    "name":"Harpeth Valley Elementary",
-    "address":"7840 Learning LA",
-    "city":"Nashville",
-    "zip":"37221",
-    "county":"Davidson",
-    "grades":"KG-4",
-    "website":"",
-    "phone":"6156623015",
-    "type":"Public Neighborhood",
-    "latlng":[36.0456879,-86.958522]
-  },
-  {
-    "name":"Head Middle Mathematics - Science Magnet",
-    "address":"1830 Jo Johnston AV",
-    "city":"Nashville",
-    "zip":"37203",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"6153298160",
-    "type":"Magnet",
-    "latlng":[36.1590544,-86.8042011]
-  },
-  {
-    "name":"William Henry Oliver Middle School",
-    "address":"6211 Nolensville RD",
-    "city":"Nashville",
-    "zip":"37211",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"6153323011",
-    "type":"Public Neighborhood",
-    "latlng":[36.0201545,-86.7124054]
-  },
-  {
-    "name":"H G Hill Middle School",
-    "address":"150 Davidson RD",
-    "city":"Nashville",
-    "zip":"37205",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"6153532020",
-    "type":"Public Neighborhood",
-    "latlng":[36.1168881,-86.866373]
-  },
-  {
-    "name":"Hume - Fogg High Academic Magnet",
-    "address":"700 Broadway",
-    "city":"Nashville",
-    "zip":"37203",
-    "county":"Davidson",
-    "grades":"9th-12th",
-    "website":"",
-    "phone":"6152916300",
-    "type":"Magnet",
-    "latlng":[36.159586,-86.78175]
-  },
-  {
-    "name":"Hermitage Hall",
-    "address":"1220 8th Avenue South",
-    "city":"Nashville",
-    "zip":"37203",
-    "county":"Davidson",
-    "grades":"3-12",
-    "website":"www.hermitagehall.com",
-    "phone":"(615) 250-2402",
-    "type":"Alternative",
-    "latlng":[36.1400946,-86.77756629999999]
-  },
-  {
-    "name":"Hillsboro Comp High School",
-    "address":"3812 Hillsboro RD",
-    "city":"Nashville",
-    "zip":"37215",
-    "county":"Davidson",
-    "grades":"9th-12th",
-    "website":"",
-    "phone":"6152988400",
-    "type":"Magnet",
-    "latlng":[36.10624900000001,-86.810761]
-  },
-  {
-    "name":"Hull Jackson Montessori Magnet",
-    "address":"1015 Kellow ST",
-    "city":"Nashville",
-    "zip":"37208",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152916601",
-    "type":"Magnet",
-    "latlng":[36.1896869,-86.80719169999999]
-  },
-  {
-    "name":"Hillwood Comp High School",
-    "address":"400 Davidson RD",
-    "city":"Nashville",
-    "zip":"37205",
-    "county":"Davidson",
-    "grades":"9th-12th",
-    "website":"",
-    "phone":"6153532025",
-    "type":"Public Neighborhood",
-    "latlng":[36.1170468,-86.8732594]
-  },
-  {
-    "name":"Granbery Elementary School",
-    "address":"5501 Hill Rd",
-    "city":"Brentwood",
-    "zip":"37027",
-    "county":"Davidson",
-    "grades":"KG-4",
-    "website":"",
-    "phone":"(615) 333-5112",
-    "type":"Public Neighborhood",
-    "latlng":[36.0465409,-86.752967]
-  },
-  {
-    "name":"J.E. Moss Elementary School",
-    "address":"4701 Bowfield Dr",
-    "city":"Antioch",
-    "zip":"37013",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"(615) 333-5200",
-    "type":"Public Neighborhood",
-    "latlng":[36.067094,-86.66991]
-  },
-  {
-    "name":"Inglewood Elementary",
-    "address":"1700 Riverside DR",
-    "city":"Nashville",
-    "zip":"37216",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152626697",
-    "type":"Public Neighborhood",
-    "latlng":[36.197866,-86.724424]
-  },
-  {
-    "name":"Hunters Lane Comp High School",
-    "address":"1150 Hunters LA",
-    "city":"Nashville",
-    "zip":"37207",
-    "county":"Davidson",
-    "grades":"9th-12th",
-    "website":"",
-    "phone":"6158601401",
-    "type":"Magnet",
-    "latlng":[36.27956470000001,-86.7529083]
-  },
-  {
-    "name":"Hattie Cotton STEM Magnet Elem.",
-    "address":"1033 West Greenwood AV",
-    "city":"Nashville",
-    "zip":"37206",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152626981",
-    "type":"Magnet",
-    "latlng":[36.19155200000001,-86.74768499999999]
-  },
-  {
-    "name":"Intrepid College Prepatory",
-    "address":"209 10th Avenue South",
-    "city":"Nashville",
-    "zip":"37203",
-    "county":"Davidson",
-    "grades":"5th-7th",
-    "website":"",
-    "phone":"",
-    "type":"Charter",
-    "latlng":[36.1548429,-86.78245210000001]
-  },
-  {
-    "name":"John B Whitsitt Elementary",
-    "address":"110 Whitsett RD",
-    "city":"Nashville",
-    "zip":"37210",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6153335600",
-    "type":"Public Neighborhood",
-    "latlng":[36.1150755,-86.7365117]
-  },
-  {
-    "name":"Isaac Litton Middle School",
-    "address":"4601 Hedgewood DR",
-    "city":"Nashville",
-    "zip":"37216",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"6152626700",
-    "type":"Public Neighborhood",
-    "latlng":[36.2282458,-86.720866]
-  },
-  {
-    "name":"Hickman Elementary",
-    "address":"112 Stewarts Ferry PK",
-    "city":"Nashville",
-    "zip":"37214",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6158844020",
-    "type":"Public Neighborhood",
-    "latlng":[36.1668548,-86.655604]
-  },
-  {
-    "name":"Joelton Middle School",
-    "address":"3500 Old Clarksville Pk",
-    "city":"Joelton",
-    "zip":"37080",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"(615) 876-5100",
-    "type":"Public Neighborhood",
-    "latlng":[36.3131164,-86.86480879999999]
-  },
-  {
-    "name":"Goodletsville Middle School",
-    "address":"300 South Main St",
-    "city":"Goodlettsville",
-    "zip":"37072",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"(615) 859-8956",
-    "type":"Magnet",
-    "latlng":[36.318073,-86.71193]
-  },
-  {
-    "name":"Glenn Elementary Enhance Option School",
-    "address":"322 Cleveland ST",
-    "city":"Nashville",
-    "zip":"37207",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152626682",
-    "type":"Magnet",
-    "latlng":[36.18627499999999,-86.76661399999999]
-  },
-  {
-    "name":"Jere Baxter Middle School",
-    "address":"350 Hart LA",
-    "city":"Nashville",
-    "zip":"37207",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"6152626710",
-    "type":"Public Neighborhood",
-    "latlng":[36.21881,-86.751098]
-  },
-  {
-    "name":"Dodson Elementary School",
-    "address":"4401 Chandler Rd",
-    "city":"Hermitage",
-    "zip":"37076",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"(615) 885-8806",
-    "type":"Public Neighborhood",
-    "latlng":[36.1910257,-86.60320519999999]
-  },
-  {
-    "name":"LEAD Academy High School (LEAD PS)",
-    "address":"1704 Heiman Street",
-    "city":"Nashville",
-    "zip":"37209",
-    "county":"Davidson",
-    "grades":"5th-11th",
-    "website":"",
-    "phone":"(615) 327-5422",
-    "type":"Charter",
-    "latlng":[36.1721714,-86.8056593]
-  },
-  {
-    "name":"John Early Paideia Middle Magnet",
-    "address":"1000 Cass ST",
-    "city":"Nashville",
-    "zip":"37208",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"6152916369",
-    "type":"Magnet",
-    "latlng":[36.1872669,-86.80516399999999]
-  },
-  {
-    "name":"Glengarry Elementary",
-    "address":"200 Finley DR",
-    "city":"Nashville",
-    "zip":"37217",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6153602900",
-    "type":"Public Neighborhood",
-    "latlng":[36.1108369,-86.70649399999999]
-  },
-  {
-    "name":"Kirkpatrick Elementary Enhanced Option",
-    "address":"1000 Sevier St",
-    "city":"Nashville",
-    "zip":"37206",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152626708",
-    "type":"Magnet",
-    "latlng":[36.167343,-86.7521]
-  },
-  {
-    "name":"Madison Middle",
-    "address":"229 Ashawn Bl",
-    "city":"Old Hickory",
-    "zip":"37138",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"(615) 259-4636",
-    "type":"Public Neighborhood",
-    "latlng":[36.235862,-86.62481199999999]
-  },
-  {
-    "name":"Madison Nazarene Christian Academy",
-    "address":"503 Lanier Dr",
-    "city":"Madison",
-    "zip":"37115",
-    "county":"",
-    "grades":"PK-12",
-    "website":"",
-    "phone":"(615) 865-2746",
-    "type":"Religious Private- Christian",
-    "latlng":[36.2562516,-86.7010224]
-  },
-  {
-    "name":"Lakeview Elementary Design Center",
-    "address":"455 Rural Hill RD",
-    "city":"Nashville",
-    "zip":"37217",
-    "county":"Davidson",
-    "grades":"PK-5",
-    "website":"",
-    "phone":"6153602912",
-    "type":"Magnet",
-    "latlng":[36.07921899999999,-86.630444]
-  },
-  {
-    "name":"Johnson School",
-    "address":"1200 2nd Ave So",
-    "city":"Nashville",
-    "zip":"37210",
-    "county":"Davidson",
-    "grades":"8th-12th",
-    "website":"",
-    "phone":"6152916414",
-    "type":"Public Neighborhood",
-    "latlng":[36.145466,-86.76360199999999]
-  },
-  {
-    "name":"Margaret Allen Middle School",
-    "address":"500 Spence LA",
-    "city":"Nashville",
-    "zip":"37210",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"6152916385",
-    "type":"Public Neighborhood",
-    "latlng":[36.1458955,-86.7205846]
-  },
-  {
-    "name":"Martin Luther King Jr Magnet School",
-    "address":"613 17th Avenue North",
-    "city":"Nashville",
-    "zip":"37203",
-    "county":"Davidson",
-    "grades":"7th-12th",
-    "website":"",
-    "phone":"6153298400",
-    "type":"Magnet",
-    "latlng":[36.1620206,-86.800918]
-  },
-  {
-    "name":"McCann Alternative Learning",
-    "address":"1300 56th Ave N",
-    "city":"Nashville",
-    "zip":"37209",
-    "county":"Davidson",
-    "grades":"",
-    "website":"",
-    "phone":"6152988090",
-    "type":"Alternative",
-    "latlng":[36.1621003,-86.8553987]
-  },
-  {
-    "name":"Knowledge Academies",
-    "address":"5380 Hickory Hollow Pkwy",
-    "city":"Antioch",
-    "zip":"37013",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"(615) 800-6814",
-    "type":"Charter",
-    "latlng":[36.0454436,-86.651496]
-  },
-  {
-    "name":"McGavock Comp High School",
-    "address":"3150 McGavock PK",
-    "city":"Nashville",
-    "zip":"37214",
-    "county":"Davidson",
-    "grades":"9th-12th",
-    "website":"",
-    "phone":"6158858850",
-    "type":"Public Neighborhood",
-    "latlng":[36.1857508,-86.67889749999999]
-  },
-  {
-    "name":"East Nashville Magnet School",
-    "address":"110 Gallatin RD",
-    "city":"Nashville",
-    "zip":"37206",
-    "county":"Davidson",
-    "grades":"5th-12th",
-    "website":"",
-    "phone":"(615) 262-6947",
-    "type":"Magnet",
-    "latlng":[36.2631377,-86.7118605]
-  },
-  {
-    "name":"Joelton Elementary School",
-    "address":"7141 Whites Creek Pk",
-    "city":"Joelton",
-    "zip":"37080",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"(615) 876-5110",
-    "type":"Public Neighborhood",
-    "latlng":[36.3157785,-86.867893]
-  },
-  {
-    "name":"McGavock Elementary",
-    "address":"275 McGavock PK",
-    "city":"Nashville",
-    "zip":"37214",
-    "county":"Davidson",
-    "grades":"K-4th",
-    "website":"",
-    "phone":"6158858912",
-    "type":"Public Neighborhood",
-    "latlng":[36.160123,-86.68034039999999]
-  },
-  {
-    "name":"Maplewood Comp High School",
-    "address":"401 Walton LA",
-    "city":"Nashville",
-    "zip":"37216",
-    "county":"Davidson",
-    "grades":"9th-12th",
-    "website":"",
-    "phone":"6152626770",
-    "type":"Public Neighborhood",
-    "latlng":[36.23238730000001,-86.7499674]
-  },
-  {
-    "name":"Meigs Middle Magnet School",
-    "address":"713 Ramsey ST",
-    "city":"Nashville",
-    "zip":"37206",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"6152713222",
-    "type":"Magnet",
-    "latlng":[36.1763895,-86.7608782]
-  },
-  {
-    "name":"Middle Ground Academy",
-    "address":"10604 Concord Rd",
-    "city":"Nashville",
-    "zip":"37201",
-    "county":"",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"(615) 941-1714",
-    "type":"Religious Private- Nondenominational",
-    "latlng":[35.9955047,-86.69238390000001]
-  },
-  {
-    "name":"Jones Paideia Elementary Magnet",
-    "address":"1800 9th AV",
-    "city":"Nashville",
-    "zip":"37208",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152916382",
-    "type":"Magnet",
-    "latlng":[36.1701238,-86.790463]
-  },
-  {
-    "name":"Metropolitan Baptist School",
-    "address":"730 Neely's Bend Rd",
-    "city":"Madison",
-    "zip":"37115",
-    "county":"",
-    "grades":"K-12",
-    "website":"",
-    "phone":"(615) 868-6674",
-    "type":"Religious Private- Christian",
-    "latlng":[36.2503389,-86.696989]
-  },
-  {
-    "name":"MNPS virtual School",
-    "address":"120 White Bridge RD",
-    "city":"Nashville",
-    "zip":"37209",
-    "county":"Davidson",
-    "grades":"10th-12th",
-    "website":"",
-    "phone":"6153533333",
-    "type":"Public Neighborhood",
-    "latlng":[36.1347304,-86.8571997]
-  },
-  {
-    "name":"Murrell School",
-    "address":"1450 14th Avenue South",
-    "city":"Nashville",
-    "zip":"37212",
-    "county":"Davidson",
-    "grades":"K-7th",
-    "website":"",
-    "phone":"6152988070",
-    "type":"Public Neighborhood",
-    "latlng":[36.1396774,-86.7900423]
-  },
-  {
-    "name":"McMurray Middle School",
-    "address":"520 McMurray DR",
-    "city":"Nashville",
-    "zip":"37211",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"6153335126",
-    "type":"Public Neighborhood",
-    "latlng":[36.0571742,-86.7239333]
-  },
-  {
-    "name":"Mount View Elementary School",
-    "address":"3820 Murfreesboro Rd",
-    "city":"Antioch",
-    "zip":"37013",
-    "county":"Davidson",
-    "grades":"PK-5",
-    "website":"",
-    "phone":"(615) 641-9393",
-    "type":"Public Neighborhood",
-    "latlng":[36.041512,-86.603718]
-  },
-  {
-    "name":"Nashville Classical Charter School",
-    "address":"1310 Ordway",
-    "city":"Nashville",
-    "zip":"37206",
-    "county":"Davidson",
-    "grades":"K-2nd",
-    "website":"",
-    "phone":"(615) 259-4636",
-    "type":"Charter",
-    "latlng":[36.179962,-86.74605299999999]
-  },
-  {
-    "name":"Nashville Big Picture High School",
-    "address":"160 Rural AV",
-    "city":"Nashville",
-    "zip":"37209",
-    "county":"Davidson",
-    "grades":"9th-12th",
-    "website":"",
-    "phone":"6153532081",
-    "type":"Public Neighborhood",
-    "latlng":[36.1431522,-86.8554123]
-  },
-  {
-    "name":"Nashville School Of The Arts",
-    "address":"1250 Foster AV",
-    "city":"Nashville",
-    "zip":"37210",
-    "county":"Davidson",
-    "grades":"9th-12th",
-    "website":"",
-    "phone":"6152916600",
-    "type":"Magnet",
-    "latlng":[36.1305645,-86.74163930000002]
-  },
-  {
-    "name":"Norman Binkley Elementary",
-    "address":"4700 West Longdale DR",
-    "city":"Nashville",
-    "zip":"37211",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6153335037",
-    "type":"Public Neighborhood",
-    "latlng":[36.0775513,-86.7486473]
-  },
-  {
-    "name":"Magnolia Academy - House 4",
-    "address":"2412 Plum Street ",
-    "city":"Nashville",
-    "zip":"37207",
-    "county":"Davidson",
-    "grades":"7-12",
-    "website":"",
-    "phone":"615-228-8683",
-    "type":"Alternative",
-    "latlng":[36.2147759,-86.76625039999999]
-  },
-  {
-    "name":"Pearl Cohn Magnet High School",
-    "address":"904 26th Avenue North",
-    "city":"Nashville",
-    "zip":"37208",
-    "county":"Davidson",
-    "grades":"9th-12th",
-    "website":"",
-    "phone":"6153298150",
-    "type":"Magnet",
-    "latlng":[36.1642281,-86.8148427]
-  },
-  {
-    "name":"Nashville Prep (RePublic Schools)",
-    "address":"1300 56th Avenue North",
-    "city":"Nashville",
-    "zip":"37209",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"(615) 538-7284",
-    "type":"Charter",
-    "latlng":[36.1621003,-86.8553987]
-  },
-  {
-    "name":"Neely's Bend College Prep* (LEAD PS)",
-    "address":"1251 Neely's Bend Road",
-    "city":"Nashville",
-    "zip":"",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"(615) 860-1477",
-    "type":"Magnet",
-    "latlng":[36.2421812,-86.6741505]
-  },
-  {
-    "name":"Paragon Mills Elementary",
-    "address":"260 Paragon Mills RD",
-    "city":"Nashville",
-    "zip":"37211",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6153335170",
-    "type":"Public Neighborhood",
-    "latlng":[36.087932,-86.706887]
-  },
-  {
-    "name":"Pennington Elementary",
-    "address":"2817 Donna Hill DR",
-    "city":"Nashville",
-    "zip":"37214",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6158858918",
-    "type":"Public Neighborhood",
-    "latlng":[36.203736,-86.68115499999999]
-  },
-  {
-    "name":"Park Avenue Elementary Enhanced Option",
-    "address":"3703 Park AV",
-    "city":"Nashville",
-    "zip":"37209",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152988412",
-    "type":"Magnet",
-    "latlng":[36.1509573,-86.83003819999999]
-  },
-  {
-    "name":"Purpose Prep",
-    "address":"220 Venture Circle",
-    "city":"Nashville",
-    "zip":"37228",
-    "county":"Davidson",
-    "grades":"K-2nd",
-    "website":"",
-    "phone":"(615) 259-4636",
-    "type":"Charter",
-    "latlng":[36.1942809,-86.794725]
-  },
-  {
-    "name":"Neely's Bend Elementary School",
-    "address":"1300 Neely's Bend Rd",
-    "city":"Madison",
-    "zip":"37115",
-    "county":"Davidson",
-    "grades":"K-4th",
-    "website":"",
-    "phone":"(615 258-1053",
-    "type":"Public Neighborhood",
-    "latlng":[36.239097,-86.673715]
-  },
-  {
-    "name":"Percy Priest Elementary",
-    "address":"1700 Otter Creek RD",
-    "city":"Nashville",
-    "zip":"37215",
-    "county":"Davidson",
-    "grades":"KG-4",
-    "website":"",
-    "phone":"6152988416",
-    "type":"Public Neighborhood",
-    "latlng":[36.062412,-86.833924]
-  },
-  {
-    "name":"LEAD Prep Southeast (LEAD PS)",
-    "address":"2601 Bransford AV",
-    "city":"Nashville",
-    "zip":"37204",
-    "county":"Davidson",
-    "grades":"5th-12th",
-    "website":"",
-    "phone":"(615) 564-1974",
-    "type":"Charter",
-    "latlng":[36.1215996,-86.7662813]
-  },
-  {
-    "name":"Johnson Alternative Learning Center",
-    "address":"3230 Brick Church PK",
-    "city":"Nashville",
-    "zip":"37207",
-    "county":"Davidson",
-    "grades":"",
-    "website":"",
-    "phone":"6152594636",
-    "type":"Alternative",
-    "latlng":[36.2349279,-86.782399]
-  },
-  {
-    "name":"Rosebank Elementary",
-    "address":"1012 Preston DR",
-    "city":"Nashville",
-    "zip":"37206",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152626720",
-    "type":"Public Neighborhood",
-    "latlng":[36.184133,-86.718487]
-  },
-  {
-    "name":"Schrader Lane Child Care Center",
-    "address":"1234 Schrader Lane",
-    "city":"Nashville",
-    "zip":"37208",
-    "county":"Davidson",
-    "grades":"K",
-    "website":"",
-    "phone":"(615) 329-9830",
-    "type":"Non-secular Private",
-    "latlng":[36.171864,-86.82278099999999]
-  },
-  {
-    "name":"Robert E. Lilliard @ Kings Lane Design Center",
-    "address":"3200 Kings LA",
-    "city":"Nashville",
-    "zip":"37218",
-    "county":"Davidson",
-    "grades":"KG-4",
-    "website":"",
-    "phone":"6158765126",
-    "type":"Magnet",
-    "latlng":[36.2208091,-86.8272949]
-  },
-  {
-    "name":"Lockeland Elementary Design Center",
-    "address":"105 South 17th ST",
-    "city":"Nashville",
-    "zip":"37206",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152581330",
-    "type":"Magnet",
-    "latlng":[36.176322,-86.73915]
-  },
-  {
-    "name":"Julia Green Elementary",
-    "address":"3701 Belmont BL",
-    "city":"Nashville",
-    "zip":"37215",
-    "county":"Davidson",
-    "grades":"KG-4",
-    "website":"",
-    "phone":"6152988082",
-    "type":"Magnet",
-    "latlng":[36.108672,-86.80171100000001]
-  },
-  {
-    "name":"McKissack Middle School",
-    "address":"915 38th Ave N",
-    "city":"Nashville",
-    "zip":"37209",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"6152988065",
-    "type":"Public Neighborhood",
-    "latlng":[36.1599811,-86.8318915]
-  },
-  {
-    "name":"Rocketship Northeast Nashville",
-    "address":"2526 Dickerson Pike",
-    "city":"Nashville",
-    "zip":"37207",
-    "county":"Davidson",
-    "grades":"K-4th",
-    "website":"",
-    "phone":"",
-    "type":"Charter",
-    "latlng":[36.2136561,-86.7650792]
-  },
-  {
-    "name":"LEAD Academy Middle School (LEAD PS)",
-    "address":"1015 Davidson Drive",
-    "city":"Nashville",
-    "zip":"",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"",
-    "type":"Charter",
-    "latlng":[36.128025,-86.9042769]
-  },
-  {
-    "name":"Shwab Elementary",
-    "address":"1500 Dickerson RD",
-    "city":"Nashville",
-    "zip":"37207",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152626725",
-    "type":"Public Neighborhood",
-    "latlng":[36.2000487,-86.7720689]
-  },
-  {
-    "name":"Ross Elementary*Early Learning Center",
-    "address":"601 McFerrin AV",
-    "city":"Nashville",
-    "zip":"37206",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152626728",
-    "type":"Public Neighborhood",
-    "latlng":[36.1806873,-86.7538491]
-  },
-  {
-    "name":"New Vision Academy",
-    "address":"297 Plus Park Boulevard",
-    "city":"Nashville",
-    "zip":"37217",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"(615) 473-3006",
-    "type":"Charter",
-    "latlng":[36.1272749,-86.725016]
-  },
-  {
-    "name":"John F. Kennedy Middle School",
-    "address":"2087 Hobson Pk",
-    "city":"Antioch",
-    "zip":"37013",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"(615) 501-7900",
-    "type":"Public Neighborhood",
-    "latlng":[36.0555846,-86.60054919999999]
-  },
-  {
-    "name":"Rose Park Math/ Science Middle Magnet",
-    "address":"1025 9th Avenue South",
-    "city":"Nashville",
-    "zip":"37203",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"6152916405",
-    "type":"Magnet",
-    "latlng":[36.142674,-86.781621]
-  },
-  {
-    "name":"Sylvan Park Paideia Design Center",
-    "address":"4801 Utah AV",
-    "city":"Nashville",
-    "zip":"37209",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152988423",
-    "type":"Magnet",
-    "latlng":[36.1443911,-86.84482080000001]
-  },
-  {
-    "name":"Rocketship United Academy",
-    "address":"320 Plus Park Blvd",
-    "city":"Nashville",
-    "zip":"37217",
-    "county":"Davidson",
-    "grades":"K-4th",
-    "website":"",
-    "phone":"",
-    "type":"Charter",
-    "latlng":[36.130456,-86.724803]
-  },
-  {
-    "name":"The Cohn School",
-    "address":"4805 Park AV",
-    "city":"Nashville",
-    "zip":"37209",
-    "county":"Davidson",
-    "grades":"8th-10th",
-    "website":"",
-    "phone":"6152986617",
-    "type":"Public Neighborhood",
-    "latlng":[36.1504178,-86.8454265]
-  },
-  {
-    "name":"STEM Preparatory Academy",
-    "address":"1162 Foster Ave",
-    "city":"Nashville",
-    "zip":"37210",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"(615) 752-0002",
-    "type":"Charter",
-    "latlng":[36.1359854,-86.7401797]
-  },
-  {
-    "name":"John Overton Comp High School",
-    "address":"4820 Franklin RD",
-    "city":"Nashville",
-    "zip":"37220",
-    "county":"Davidson",
-    "grades":"9th-12th",
-    "website":"",
-    "phone":"6153335135",
-    "type":"Public Neighborhood",
-    "latlng":[36.079846,-86.76899600000002]
-  },
-  {
-    "name":"STRIVE Collegiate Academy",
-    "address":"3055 Lebanon Pike",
-    "city":"Nashville",
-    "zip":"",
-    "county":"Davidson",
-    "grades":"5th",
-    "website":"",
-    "phone":"",
-    "type":"Charter",
-    "latlng":[36.1788558,-86.6429636]
-  },
-  {
-    "name":"Napier Elementary Enhancement Option",
-    "address":"60 Fairfield AV",
-    "city":"Nashville",
-    "zip":"37210",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152916400",
-    "type":"Magnet",
-    "latlng":[36.1502525,-86.75687839999999]
-  },
-  {
-    "name":"Wayne Reed Child Care Center",
-    "address":"11- B Lindsley AV",
-    "city":"Nashville",
-    "zip":"37210",
-    "county":"Davidson",
-    "grades":"",
-    "website":"",
-    "phone":"6152449311",
-    "type":"",
-    "latlng":[36.1524981,-86.7678486]
-  },
-  {
-    "name":"Una Elementary",
-    "address":"2018 Murfreesboro RD",
-    "city":"Nashville",
-    "zip":"37214",
-    "county":"Davidson",
-    "grades":"K-4th",
-    "website":"",
-    "phone":"6153602921",
-    "type":"Public Neighborhood",
-    "latlng":[36.0950768,-86.6540093]
-  },
-  {
-    "name":"John T. Moore Middle School",
-    "address":"4425 Granny White PK",
-    "city":"Nashville",
-    "zip":"37204",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"6152988095",
-    "type":"Magnet",
-    "latlng":[36.095479,-86.802494]
-  },
-  {
-    "name":"Wright Middle School",
-    "address":"180 McCall ST",
-    "city":"Nashville",
-    "zip":"37211",
-    "county":"Davidson",
-    "grades":"5th-8th",
-    "website":"",
-    "phone":"6153335189",
-    "type":"Public Neighborhood",
-    "latlng":[36.1002707,-86.7340298]
-  },
-  {
-    "name":"Valor Collegiate Academy #2",
-    "address":"4527 Nolensville Pike",
-    "city":"Nashville",
-    "zip":"",
-    "county":"Davidson",
-    "grades":"5th-6th",
-    "website":"",
-    "phone":"",
-    "type":"Charter",
-    "latlng":[36.070607,-86.72571599999999]
-  },
-  {
-    "name":"STEM Prep High School",
-    "address":"1162 Foster Ave",
-    "city":"Nashville",
-    "zip":"37210",
-    "county":"Davidson",
-    "grades":"9th",
-    "website":"",
-    "phone":"",
-    "type":"Charter",
-    "latlng":[36.1359854,-86.7401797]
-  },
-  {
-    "name":"Valor Collegiate Academy",
-    "address":"4527 Nolensville Pike",
-    "city":"Nashville",
-    "zip":"",
-    "county":"Davidson",
-    "grades":"5th-6th",
-    "website":"",
-    "phone":"",
-    "type":"Charter",
-    "latlng":[36.070607,-86.72571599999999]
-  },
-  {
-    "name":"Tenn School For Blind",
-    "address":"115 Stewarts Ferry PK",
-    "city":"Nashville",
-    "zip":"37214",
-    "county":"Davidson",
-    "grades":"",
-    "website":"",
-    "phone":"6152317300",
-    "type":"Special Needs",
-    "latlng":[36.1674671,-86.6543964]
-  },
-  {
-    "name":"Tom Joy Elementary",
-    "address":"2201 Jones AV",
-    "city":"Nashville",
-    "zip":"37207",
-    "county":"Davidson",
-    "grades":"PK-4",
-    "website":"",
-    "phone":"6152626724",
-    "type":"Public Neighborhood",
-    "latlng":[36.2085979,-86.75715330000001]
-  },
-  {
-    "name":"W. A. Bass Adult High School",
-    "address":"5300 Delaware AV",
-    "city":"Nashville",
-    "zip":"37209",
-    "county":"Davidson",
-    "grades":"",
-    "website":"",
-    "phone":"6152988053",
-    "type":"Alternative",
-    "latlng":[36.1541297,-86.85120510000002]
-  },
-  {
-    "name":"West End Middle School",
-    "address":"3529 West End AV",
-    "city":"Nashville",
-    "zip":"37205",
-    "county":"Davidson",
-    "grades":"9th-12th",
-    "website":"",
-    "phone":"6152988425",
-    "type":"Magnet",
-    "latlng":[36.13172300000001,-86.825638]
+    "name": "A.Z. Kelley Elementary School",
+    "address": "5834 Pettus Rd",
+    "city": "Antioch",
+    "zip": "37013",
+    "county": "Davidson",
+    "grades": "KG-4",
+    "website": "",
+    "phone": "(615) 941-7535",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.0224365,
+      "lng": -86.6646225
+    }
+  },
+  {
+    "name": "Abintra Montessori School",
+    "address": "914 Davidson Drive",
+    "city": "Nashville",
+    "zip": "37205",
+    "county": "Davidson",
+    "grades": "PK-8",
+    "website": "www.abintra.org/ ",
+    "phone": "(615) 352-4317",
+    "type": "Non-secular Private",
+    "coordinates": {
+      "lat": 36.1185238,
+      "lng": -86.89789859999999
+    }
+  },
+  {
+    "name": "Akiva School",
+    "address": "809 Percy Warner Boulevard",
+    "city": "Nashville",
+    "zip": "37205-4009",
+    "county": "Davidson",
+    "grades": "K-6",
+    "website": "www.akivanashville.net",
+    "phone": "(615) 356-1880",
+    "type": "Religious Private- Jewish",
+    "coordinates": {
+      "lat": 36.0847403,
+      "lng": -86.89424540000002
+    }
+  },
+  {
+    "name": "Alex Green Elementary School",
+    "address": "3921 Lloyd Rd",
+    "city": "Whites Creek",
+    "zip": "37189",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "(615) 876-5105",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.2537667,
+      "lng": -86.8307537
+    }
+  },
+  {
+    "name": "Amqui Elementary School ",
+    "address": "319 Anderson La",
+    "city": "Madison",
+    "zip": "37115",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "(615) 612-3678",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.2738689,
+      "lng": -86.7040291
+    }
+  },
+  {
+    "name": "Andrew Jackson Elementary School",
+    "address": "110 Shute La",
+    "city": "Old Hickory",
+    "zip": "37138",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "(615) 847-7317",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.2314682,
+      "lng": -86.6229085
+    }
+  },
+  {
+    "name": "Antioch High School",
+    "address": "1900 Hobson Pk",
+    "city": "Antioch",
+    "zip": "37013",
+    "county": "Davidson",
+    "grades": "9th-12th",
+    "website": "",
+    "phone": "(615) 641-5400",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.0462375,
+      "lng": -86.59877329999999
+    }
+  },
+  {
+    "name": "Antioch Middle",
+    "address": "5050 Blue Hole Rd",
+    "city": "Antioch",
+    "zip": "37013",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "(615) 333-5642",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.0566283,
+      "lng": -86.6714648
+    }
+  },
+  {
+    "name": "Apollo Middle School",
+    "address": "631 Richards Rd",
+    "city": "Antioch",
+    "zip": "37013",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "(615) 333-5025",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.0666023,
+      "lng": -86.66417919999999
+    }
+  },
+  {
+    "name": "Bailey STEM Magnet Middle",
+    "address": "2000 Greenwood AV",
+    "city": "Nashville",
+    "zip": "37206",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "6152626670",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.188165,
+      "lng": -86.73264499999999
+    }
+  },
+  {
+    "name": "Bambini Montessori",
+    "address": "2501 Lakeland Drive",
+    "city": "Nashville",
+    "zip": "37214",
+    "county": "Davidson",
+    "grades": "PreK-4th",
+    "website": "www.bambinimontessori.org",
+    "phone": "(615) 885-8772",
+    "type": "Non-secular Private",
+    "coordinates": {
+      "lat": 36.155279,
+      "lng": -86.68080499999999
+    }
+  },
+  {
+    "name": "Barrington Christian Academy",
+    "address": "3010 Tuggle Avenue",
+    "city": "Nashville",
+    "zip": "37211",
+    "county": "Davidson",
+    "grades": "PreK-1",
+    "website": "www.bcanashville.com",
+    "phone": "615) 953-3034",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.106612,
+      "lng": -86.733621
+    }
+  },
+  {
+    "name": "Battle Ground Academy",
+    "address": "336 Earnest Rice Lane",
+    "city": "Franklin",
+    "zip": "37069",
+    "county": "",
+    "grades": "K-12",
+    "website": "http://www.battlegroundacademy.org/default.aspx",
+    "phone": "(615) 567-9014",
+    "type": "Non-secular Private",
+    "coordinates": {
+      "lat": 35.95142269999999,
+      "lng": -86.8578027
+    }
+  },
+  {
+    "name": "Baxter Alternative Learning Center",
+    "address": "3515 Gallatin RD",
+    "city": "Nashville",
+    "zip": "37216",
+    "county": "Davidson",
+    "grades": "",
+    "website": "",
+    "phone": "6156505381",
+    "type": "Alternative",
+    "coordinates": {
+      "lat": 36.21256,
+      "lng": -86.73325500000001
+    }
+  },
+  {
+    "name": "Bellevue Middle School",
+    "address": "655 Colice Jeanne RD",
+    "city": "Nashville",
+    "zip": "37221",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "6156623000",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.0705527,
+      "lng": -86.9351976
+    }
+  },
+  {
+    "name": "Bellshire Elementary Design Center",
+    "address": "1128 Bell Grimes LA",
+    "city": "Nashville",
+    "zip": "37207",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6158601452",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.2698347,
+      "lng": -86.76200209999999
+    }
+  },
+  {
+    "name": "Benton Hall Academy",
+    "address": "2422 Bethlehem Loop Rd",
+    "city": "Franklin",
+    "zip": "37069",
+    "county": "",
+    "grades": "K-12",
+    "website": "http://www.bentonhallacademy.org/",
+    "phone": "(615) 791-6467",
+    "type": "Non-secular Private",
+    "coordinates": {
+      "lat": 36.0034474,
+      "lng": -86.8883492
+    }
+  },
+  {
+    "name": "Bordeaux Elementary Enhanced Option",
+    "address": "1910 South Hamilton RD",
+    "city": "Nashville",
+    "zip": "37218",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152916355",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.19138100000001,
+      "lng": -86.83236
+    }
+  },
+  {
+    "name": "Born Again Christian Academy",
+    "address": "858 West Trinity Lane",
+    "city": "Nashville",
+    "zip": "37207",
+    "county": "Davidson",
+    "grades": "PK-3",
+    "website": "",
+    "phone": "(615) 228-1430",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.205995,
+      "lng": -86.8027029
+    }
+  },
+  {
+    "name": "Brentwood Academy",
+    "address": "219 Granny White Pike",
+    "city": "Brentwood",
+    "zip": "37027",
+    "county": "",
+    "grades": "6th-12th",
+    "website": "http://www.brentwoodacademy.com/",
+    "phone": "(615) 373-0611",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.0331798,
+      "lng": -86.81960819999999
+    }
+  },
+  {
+    "name": "Brick Church College Prep* (LEAD PS)",
+    "address": "2835 Brick Church Pike",
+    "city": "Nashville",
+    "zip": "37207",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "http://www.brickchurchcollegeprep.org/",
+    "phone": "(615) 262-6665",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.220244,
+      "lng": -86.7807823
+    }
+  },
+  {
+    "name": "Buena Vista Elementary Enhanced Option",
+    "address": "1531 9th Avenue North",
+    "city": "Nashville",
+    "zip": "37208",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152916762",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.1777839,
+      "lng": -86.79862469999999
+    }
+  },
+  {
+    "name": "Caldwell Elem. Enhanced Option",
+    "address": "401 Meridian ST",
+    "city": "Nashville",
+    "zip": "37207",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152916361",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.178297,
+      "lng": -86.76875299999999
+    }
+  },
+  {
+    "name": "Cameron College Prep (LEAD PS)",
+    "address": "1034 1st Avenue",
+    "city": "Nashville",
+    "zip": "37210",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "http://cameroncollegeprep.org/",
+    "phone": "(615) 291-6365",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.1486282,
+      "lng": -86.76427559999999
+    }
+  },
+  {
+    "name": "Cane Ridge Elementary",
+    "address": "3884 Asheford Trace",
+    "city": "Antioch",
+    "zip": "37013",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "(615) 641-7824",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.0400064,
+      "lng": -86.61763789999999
+    }
+  },
+  {
+    "name": "Cane Ridge High School",
+    "address": "12848 Old Hickory Blvd",
+    "city": "Antioch",
+    "zip": "37013",
+    "county": "Davidson",
+    "grades": "9th-12th",
+    "website": "",
+    "phone": "(615) 687-4000",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.0301898,
+      "lng": -86.6202308
+    }
+  },
+  {
+    "name": "Carter Lawrence Elementary Magnet",
+    "address": "1118 12th Avenue South",
+    "city": "Nashville",
+    "zip": "37203",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152917333",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.1434347,
+      "lng": -86.7862291
+    }
+  },
+  {
+    "name": "Casa dei Montessori",
+    "address": "7646 Highway 70 South",
+    "city": "Nashville",
+    "zip": "37221",
+    "county": "Davidson",
+    "grades": "PreK-6",
+    "website": "www.casadeimontessori.com",
+    "phone": "(615) 673-8000",
+    "type": "Non-Public",
+    "coordinates": {
+      "lat": 36.0796849,
+      "lng": -86.9514748
+    }
+  },
+  {
+    "name": "Cedarcreek Schoolhouse Academy",
+    "address": "2805 Foster Avenue Suite 200",
+    "city": "Nashville",
+    "zip": "37210",
+    "county": "Davidson",
+    "grades": "K-12",
+    "website": "www.cedarcreekschoolhouse.com",
+    "phone": "(615) 333-0405",
+    "type": "(Satellite home school)",
+    "coordinates": {
+      "lat": 36.1129399,
+      "lng": -86.7431309
+    }
+  },
+  {
+    "name": "Chadwell Elementary School",
+    "address": "321 Port Dr",
+    "city": "Madison",
+    "zip": "37115",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "(615) 860-1459",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.2566778,
+      "lng": -86.7412153
+    }
+  },
+  {
+    "name": "Charlotte Park Elementary",
+    "address": "480 Annex AV",
+    "city": "Nashville",
+    "zip": "37209",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6153532006",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.15059,
+      "lng": -86.88287299999999
+    }
+  },
+  {
+    "name": "Children's House of Nashville Montessori School",
+    "address": "3404 Belmont Blvd.",
+    "city": "Nashville",
+    "zip": "37215",
+    "county": "Davidson",
+    "grades": "PreK-K",
+    "website": "www.childrenshousenashville.org",
+    "phone": "(615) 298-5647",
+    "type": "Non-secular Private",
+    "coordinates": {
+      "lat": 36.1146806,
+      "lng": -86.7989345
+    }
+  },
+  {
+    "name": "Christ Presbyterian Academy",
+    "address": "2323-A Old Hickory Boulevard",
+    "city": "Nashville",
+    "zip": "37215",
+    "county": "Davidson",
+    "grades": "K-12",
+    "website": "www.cpalions.org",
+    "phone": "(615) 373-9550",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.0486549,
+      "lng": -86.879127
+    }
+  },
+  {
+    "name": "Christ the King School",
+    "address": "3105 Belmont Boulevard",
+    "city": "Nashville",
+    "zip": "37212",
+    "county": "Davidson",
+    "grades": "PreK-8",
+    "website": "www.ctk.org",
+    "phone": "(615) 292-9465",
+    "type": "Religious Private- Catholic",
+    "coordinates": {
+      "lat": 36.1183101,
+      "lng": -86.79727559999999
+    }
+  },
+  {
+    "name": "Cockrill Elementary",
+    "address": "4701 Indiana AV",
+    "city": "Nashville",
+    "zip": "37209",
+    "county": "",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152988075",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1557938,
+      "lng": -86.84494780000001
+    }
+  },
+  {
+    "name": "Cole Elementary",
+    "address": "5060 Colemont Dr",
+    "city": "Antioch",
+    "zip": "37013",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "(615) 333-5043",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.05771,
+      "lng": -86.698326
+    }
+  },
+  {
+    "name": "Cora Howe School",
+    "address": "1928 Greenwood AV",
+    "city": "Nashville",
+    "zip": "37206",
+    "county": "",
+    "grades": "K-12",
+    "website": "",
+    "phone": "6156122545",
+    "type": "Special Needs",
+    "coordinates": {
+      "lat": 36.188406,
+      "lng": -86.73502099999999
+    }
+  },
+  {
+    "name": "Crieve Hall Elementary",
+    "address": "498 Hogan RD",
+    "city": "Nashville",
+    "zip": "37220",
+    "county": "",
+    "grades": "K-4th",
+    "website": "",
+    "phone": "6153335059",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.0655853,
+      "lng": -86.7583994
+    }
+  },
+  {
+    "name": "Croft Middle Design Center",
+    "address": "482 Elysian Fields DR",
+    "city": "Nashville",
+    "zip": "37211",
+    "county": "",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "6153320217",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.087975,
+      "lng": -86.7342611
+    }
+  },
+  {
+    "name": "Cumberland Elementary",
+    "address": "4247 Cato RD",
+    "city": "Nashville",
+    "zip": "37218",
+    "county": "",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152916370",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.212192,
+      "lng": -86.8678933
+    }
+  },
+  {
+    "name": "Currey Ingram Academy",
+    "address": "6544 Murray Lane",
+    "city": "Brentwood",
+    "zip": "37027",
+    "county": "",
+    "grades": "K-12",
+    "website": "http://www.curreyingram.org/",
+    "phone": "(615) 507-3242",
+    "type": "Non-secular Private",
+    "coordinates": {
+      "lat": 36.0319206,
+      "lng": -86.8592487
+    }
+  },
+  {
+    "name": "Dan Mills Elementary",
+    "address": "4106 Kennedy AV",
+    "city": "Nashville",
+    "zip": "37216",
+    "county": "",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152626677",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.2180553,
+      "lng": -86.7164251
+    }
+  },
+  {
+    "name": "Davidson Academy",
+    "address": "1414 Old Hickory Boulevard",
+    "city": "Nashville",
+    "zip": "37207",
+    "county": "Davidson",
+    "grades": "PreK-12",
+    "website": "www.davidsonacademy.com",
+    "phone": "(615) 860-5300",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.0427651,
+      "lng": -86.8282196
+    }
+  },
+  {
+    "name": "Davidson County Juvenile Detention Center",
+    "address": "100 Woodland Street",
+    "city": "Nashville",
+    "zip": "37213",
+    "county": "Davidson",
+    "grades": "7-12",
+    "website": "",
+    "phone": "(615) 862-8066   x71014",
+    "type": "Alternative",
+    "coordinates": {
+      "lat": 36.1688766,
+      "lng": -86.7712983
+    }
+  },
+  {
+    "name": "Dodson Elementary School",
+    "address": "4401 Chandler Rd",
+    "city": "Hermitage",
+    "zip": "37076",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "(615) 885-8806",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1910257,
+      "lng": -86.60320519999999
+    }
+  },
+  {
+    "name": "Donelson Christian Academy",
+    "address": "300 Danyacrest Drive",
+    "city": "Nashville",
+    "zip": "37214",
+    "county": "Davidson",
+    "grades": "PreK-12",
+    "website": "www.dcawildcats.org",
+    "phone": "(615) 883-2926",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.1840686,
+      "lng": -86.6508047
+    }
+  },
+  {
+    "name": "Donelson Middle School",
+    "address": "110 Stewarts Ferry PK",
+    "city": "Nashville",
+    "zip": "37214",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "6158844080",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1653928,
+      "lng": -86.656932
+    }
+  },
+  {
+    "name": "DuPont Elementary",
+    "address": "1311 9th St",
+    "city": "Old Hickory",
+    "zip": "37138",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "(615) 8847-7305",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.260307,
+      "lng": -86.652637
+    }
+  },
+  {
+    "name": "DuPont Hadley Middle School",
+    "address": "1901 Old Hickory Bl",
+    "city": "Old Hickory",
+    "zip": "37138",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "(615) 847-7300",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.2501682,
+      "lng": -86.6429994
+    }
+  },
+  {
+    "name": "DuPont Tyler Middle School",
+    "address": "431 Tyler Dr",
+    "city": "Hermitage",
+    "zip": "37076",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "(615) 885-8827",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1994301,
+      "lng": -86.6115978
+    }
+  },
+  {
+    "name": "Eakin Elementary School",
+    "address": "2500 Fairfax AV",
+    "city": "Nashville",
+    "zip": "37212",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152988076",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1356073,
+      "lng": -86.8080064
+    }
+  },
+  {
+    "name": "East Academy",
+    "address": "108 Chapel Ave",
+    "city": "Nashville",
+    "zip": "37206",
+    "county": "Davidson",
+    "grades": "K-8",
+    "website": "http://www.eastacademy.org/",
+    "phone": "(615)228-2284",
+    "type": "Non-secular Private",
+    "coordinates": {
+      "lat": 36.1835508,
+      "lng": -86.7355728
+    }
+  },
+  {
+    "name": "East End Preparatory School",
+    "address": "1460 McGavock Pike Nashville, TN ",
+    "city": "Nashville",
+    "zip": "37216",
+    "county": "Davidson",
+    "grades": "K-4th",
+    "website": "http://www.eastendprep.org/",
+    "phone": "(615) 630-7470",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.20613,
+      "lng": -86.718369
+    }
+  },
+  {
+    "name": "East Nashville Magnet School",
+    "address": "110 Gallatin RD",
+    "city": "Nashville",
+    "zip": "37206",
+    "county": "Davidson",
+    "grades": "5th-12th",
+    "website": "",
+    "phone": "(615) 262-6947",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.2631377,
+      "lng": -86.7118605
+    }
+  },
+  {
+    "name": "Ensworth School",
+    "address": "211 Ensworth Avenue",
+    "city": "Nashville",
+    "zip": "37205",
+    "county": "Davidson",
+    "grades": "K-12",
+    "website": "www.ensworth.com",
+    "phone": "(615) 383-0661",
+    "type": "Non-secular Private",
+    "coordinates": {
+      "lat": 36.1255546,
+      "lng": -86.8400077
+    }
+  },
+  {
+    "name": "Explore! Community School",
+    "address": "217 S. 10th Street Nashville, TN ",
+    "city": "Nashville",
+    "zip": "37206",
+    "county": "Davidson",
+    "grades": "K",
+    "website": "http://www.explorecommunityschool.com/",
+    "phone": "(615) 784-8222",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.1744348,
+      "lng": -86.75157639999999
+    }
+  },
+  {
+    "name": "Ezell-Harding Christian School",
+    "address": "574 Bell Rd",
+    "city": "Antioch",
+    "zip": "37013",
+    "county": "",
+    "grades": "PK-12",
+    "website": "http://www.ezellharding.com/",
+    "phone": "(615) 367-0532",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.064963,
+      "lng": -86.635097
+    }
+  },
+  {
+    "name": "F. H. Jenkins Elementary School",
+    "address": "814 Youngs Lane",
+    "city": "Nashville",
+    "zip": "37207",
+    "county": "Davidson",
+    "grades": "K-8",
+    "website": "www.fhjenkins.net",
+    "phone": "(615) 228-8827",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.2035901,
+      "lng": -86.7994191
+    }
+  },
+  {
+    "name": "Fall- Hamilton Elementary Enhanced Option",
+    "address": "510 Wedgewood AV",
+    "city": "Nashville",
+    "zip": "37203",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152916380",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.1331189,
+      "lng": -86.7662952
+    }
+  },
+  {
+    "name": "Family Christian Academy",
+    "address": "925 Industrial Blvd",
+    "city": "Old Hickory",
+    "zip": "37138",
+    "county": "",
+    "grades": "K-12",
+    "website": "http://www.familychristianacademy.com/",
+    "phone": "(615) 847-3999",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.2659458,
+      "lng": -86.6639294
+    }
+  },
+  {
+    "name": "Father Ryan High School",
+    "address": "700 Norwood Drive",
+    "city": "Nashville",
+    "zip": "37204",
+    "county": "Davidson",
+    "grades": "9-12",
+    "website": "www.fatherryan.org",
+    "phone": "(615) 383-4200",
+    "type": "Religious Private- Catholic",
+    "coordinates": {
+      "lat": 36.098267,
+      "lng": -86.766018
+    }
+  },
+  {
+    "name": "Franklin Road Academy",
+    "address": "4700 Franklin Road",
+    "city": "Nashville",
+    "zip": "37220",
+    "county": "Davidson",
+    "grades": "PK-12",
+    "website": "www.franklinroadacademy.com",
+    "phone": "(615) 832-8845",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.03726109999999,
+      "lng": -86.7865791
+    }
+  },
+  {
+    "name": "G4S Academy for Young Women",
+    "address": "279 Stewarts Ferry Pike",
+    "city": "Nashville",
+    "zip": "37214",
+    "county": "Davidson",
+    "grades": "9-12",
+    "website": "www.g4s.us",
+    "phone": "615-921-8901 x114",
+    "type": "Non-Public",
+    "coordinates": {
+      "lat": 36.1607265,
+      "lng": -86.64474949999999
+    }
+  },
+  {
+    "name": "Gateway Academy at the Learning Lab",
+    "address": "3815 Cleghorn Avenue",
+    "city": "Nashville",
+    "zip": "37205",
+    "county": "Davidson",
+    "grades": "K-12",
+    "website": "www.mylearnlab.com",
+    "phone": "(615) 321-7272",
+    "type": "(Satellite home school)",
+    "coordinates": {
+      "lat": 36.1086711,
+      "lng": -86.81881760000002
+    }
+  },
+  {
+    "name": "Gateway Elementary School",
+    "address": "1524 Moticello Av",
+    "city": "Madison",
+    "zip": "37115",
+    "county": "Davidson",
+    "grades": "K-4th",
+    "website": "",
+    "phone": "(615) 860-1465",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.292344,
+      "lng": -86.711051
+    }
+  },
+  {
+    "name": "Genesis Academy Nashville",
+    "address": "430 Allied Drive",
+    "city": "Nashville",
+    "zip": "37211",
+    "county": "Davidson",
+    "grades": "K-12",
+    "website": "www.genesislearn.org",
+    "phone": "(615) 832-4222",
+    "type": "Special Needs",
+    "coordinates": {
+      "lat": 36.0963358,
+      "lng": -86.7404632
+    }
+  },
+  {
+    "name": "Glencliff Comp High School",
+    "address": "160 Antioch PK",
+    "city": "Nashville",
+    "zip": "37211",
+    "county": "Davidson",
+    "grades": "9th-12th",
+    "website": "",
+    "phone": "6153335070",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1020074,
+      "lng": -86.7272172
+    }
+  },
+  {
+    "name": "Glencliff Elementary",
+    "address": "120 Antioch PK",
+    "city": "Nashville",
+    "zip": "37211",
+    "county": "Davidson",
+    "grades": "K-4th",
+    "website": "",
+    "phone": "6153335105",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.10202,
+      "lng": -86.72287
+    }
+  },
+  {
+    "name": "Glendale Spanish Immersion Elementary School",
+    "address": "800 Thompson AV",
+    "city": "Nashville",
+    "zip": "37204",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152797970",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.0954871,
+      "lng": -86.78506469999999
+    }
+  },
+  {
+    "name": "Glengarry Elementary",
+    "address": "200 Finley DR",
+    "city": "Nashville",
+    "zip": "37217",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6153602900",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1108369,
+      "lng": -86.70649399999999
+    }
+  },
+  {
+    "name": "Glenn Elementary Enhance Option School",
+    "address": "322 Cleveland ST",
+    "city": "Nashville",
+    "zip": "37207",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152626682",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.18627499999999,
+      "lng": -86.76661399999999
+    }
+  },
+  {
+    "name": "Glenview Elementary",
+    "address": "1020 Patricia DR",
+    "city": "Nashville",
+    "zip": "37217",
+    "county": "Davidson",
+    "grades": "K-4th",
+    "website": "",
+    "phone": "6153602906",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1278858,
+      "lng": -86.7066
+    }
+  },
+  {
+    "name": "Good Shepherd Child Center, LLC DBA Rosie's Playschool ",
+    "address": "414 Brewer Drive",
+    "city": "Nashville ",
+    "zip": "37211",
+    "county": "Davidson",
+    "grades": "PreK-K",
+    "website": "",
+    "phone": "615-834-8712",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.0536979,
+      "lng": -86.7165042
+    }
+  },
+  {
+    "name": "Goodletsville Elementary School",
+    "address": "514 Donald St",
+    "city": "Goodlettsville",
+    "zip": "37072",
+    "county": "Davidson",
+    "grades": "KG-4",
+    "website": "",
+    "phone": "(615) 859-8950",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.3130697,
+      "lng": -86.7103401
+    }
+  },
+  {
+    "name": "Goodletsville Middle School",
+    "address": "300 South Main St",
+    "city": "Goodlettsville",
+    "zip": "37072",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "(615) 859-8956",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.318073,
+      "lng": -86.71193
+    }
+  },
+  {
+    "name": "Goodpasture Christian School",
+    "address": "619 Due West Ave",
+    "city": "Madison",
+    "zip": "37115",
+    "county": "",
+    "grades": "PK-12",
+    "website": "http://www.goodpasture.org/",
+    "phone": "(615) 868-2600",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.2495102,
+      "lng": -86.7387121
+    }
+  },
+  {
+    "name": "Gower Elementary",
+    "address": "650 Old Hickory BL",
+    "city": "Nashville",
+    "zip": "37209",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6153532012",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.115374,
+      "lng": -86.921522
+    }
+  },
+  {
+    "name": "Gra-Mar Middle School",
+    "address": "575 Joyce LA",
+    "city": "Nashville",
+    "zip": "37216",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "6152626685",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.2329554,
+      "lng": -86.74547869999999
+    }
+  },
+  {
+    "name": "Granbery Elementary School",
+    "address": "5501 Hill Rd",
+    "city": "Brentwood",
+    "zip": "37027",
+    "county": "Davidson",
+    "grades": "KG-4",
+    "website": "",
+    "phone": "(615) 333-5112",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.0465409,
+      "lng": -86.752967
+    }
+  },
+  {
+    "name": "Green Hills Child Development, LLC",
+    "address": "3420 Belmont Blvd.",
+    "city": "Nashville",
+    "zip": "37215",
+    "county": "Davidson",
+    "grades": "PreK-K",
+    "website": "",
+    "phone": "(615) 383-3373",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.1133788,
+      "lng": -86.799433
+    }
+  },
+  {
+    "name": "Grow Academy ",
+    "address": "830 Kirkwood Avenue",
+    "city": "Nashville ",
+    "zip": "37204",
+    "county": "Davidson",
+    "grades": "PreK-K",
+    "website": "",
+    "phone": "615-810-9970",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.1210058,
+      "lng": -86.7797184
+    }
+  },
+  {
+    "name": "H G Hill Middle School",
+    "address": "150 Davidson RD",
+    "city": "Nashville",
+    "zip": "37205",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "6153532020",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1168881,
+      "lng": -86.866373
+    }
+  },
+  {
+    "name": "Harding Academy",
+    "address": "170 Windsor Drive",
+    "city": "Nashville",
+    "zip": "37205",
+    "county": "Davidson",
+    "grades": "K-8",
+    "website": "www.hardingacademy.org",
+    "phone": "(615) 356-5510",
+    "type": "Non-secular Private",
+    "coordinates": {
+      "lat": 36.1020942,
+      "lng": -86.8674831
+    }
+  },
+  {
+    "name": "Harpeth Hall School",
+    "address": "3801 Hobbs Road",
+    "city": "Nashville",
+    "zip": "37215",
+    "county": "Davidson",
+    "grades": "5-12",
+    "website": "www.harpethhall.org",
+    "phone": "(615) 297-9543",
+    "type": "Non-secular Private (Girls)",
+    "coordinates": {
+      "lat": 36.1015159,
+      "lng": -86.840715
+    }
+  },
+  {
+    "name": "Harpeth Valley Elementary",
+    "address": "7840 Learning LA",
+    "city": "Nashville",
+    "zip": "37221",
+    "county": "Davidson",
+    "grades": "KG-4",
+    "website": "",
+    "phone": "6156623015",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.0456879,
+      "lng": -86.958522
+    }
+  },
+  {
+    "name": "Harris-Hillman Special",
+    "address": "1706 26th Avenue South",
+    "city": "Nashville",
+    "zip": "37212",
+    "county": "Davidson",
+    "grades": "PK-12",
+    "website": "",
+    "phone": "6152988085",
+    "type": "Special Needs",
+    "coordinates": {
+      "lat": 36.1373746,
+      "lng": -86.8070383
+    }
+  },
+  {
+    "name": "Hattie Cotton STEM Magnet Elem.",
+    "address": "1033 West Greenwood AV",
+    "city": "Nashville",
+    "zip": "37206",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152626981",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.19155200000001,
+      "lng": -86.74768499999999
+    }
+  },
+  {
+    "name": "Haynes Health/ Medical Science Design Center",
+    "address": "510 West Trinity LA",
+    "city": "Nashville",
+    "zip": "37207",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "6152626688",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.2074245,
+      "lng": -86.7888918
+    }
+  },
+  {
+    "name": "Head Middle Mathematics - Science Magnet",
+    "address": "1830 Jo Johnston AV",
+    "city": "Nashville",
+    "zip": "37203",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "6153298160",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.1590544,
+      "lng": -86.8042011
+    }
+  },
+  {
+    "name": "Hendersonville Christian Academy",
+    "address": "355 Old Shackle Island Rd",
+    "city": "Hendersonville",
+    "zip": "37075",
+    "county": "",
+    "grades": "PK-12",
+    "website": "http://www.hcacrusaders.com/'",
+    "phone": "(615) 824-1550",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.3224181,
+      "lng": -86.6198534
+    }
+  },
+  {
+    "name": "Henry Maxwell Elementary School",
+    "address": "5535 Blue Hole Rd",
+    "city": "Antioch",
+    "zip": "37013",
+    "county": "Davidson",
+    "grades": "K-5",
+    "website": "",
+    "phone": "(615) 333-7180",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.0309362,
+      "lng": -86.6739885
+    }
+  },
+  {
+    "name": "Hermitage Elementary School",
+    "address": "3800 Plantation Dr",
+    "city": "Hermitage",
+    "zip": "37076",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "http://hermitagees.mnps.org/pages/Hermitage_Elementary_School",
+    "phone": "",
+    "type": "",
+    "coordinates": {
+      "lat": 36.198087,
+      "lng": -86.6362989
+    }
+  },
+  {
+    "name": "Hermitage Hall",
+    "address": "1220 8th Avenue South",
+    "city": "Nashville",
+    "zip": "37203",
+    "county": "Davidson",
+    "grades": "3-12",
+    "website": "www.hermitagehall.com",
+    "phone": "(615) 250-2402",
+    "type": "Alternative",
+    "coordinates": {
+      "lat": 36.1400946,
+      "lng": -86.77756629999999
+    }
+  },
+  {
+    "name": "Hickman Elementary",
+    "address": "112 Stewarts Ferry PK",
+    "city": "Nashville",
+    "zip": "37214",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6158844020",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1668548,
+      "lng": -86.655604
+    }
+  },
+  {
+    "name": "Hillsboro Comp High School",
+    "address": "3812 Hillsboro RD",
+    "city": "Nashville",
+    "zip": "37215",
+    "county": "Davidson",
+    "grades": "9th-12th",
+    "website": "",
+    "phone": "6152988400",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.10624900000001,
+      "lng": -86.810761
+    }
+  },
+  {
+    "name": "Hillwood Comp High School",
+    "address": "400 Davidson RD",
+    "city": "Nashville",
+    "zip": "37205",
+    "county": "Davidson",
+    "grades": "9th-12th",
+    "website": "",
+    "phone": "6153532025",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1170468,
+      "lng": -86.8732594
+    }
+  },
+  {
+    "name": "Holy Rosary Academy",
+    "address": "190 Graylynn Drive",
+    "city": "Nashville",
+    "zip": "37214",
+    "county": "Davidson",
+    "grades": "PreK-8",
+    "website": "www.holyrosary.edu",
+    "phone": "(615) 883-1108",
+    "type": "Religious Private- Catholic",
+    "coordinates": {
+      "lat": 36.168428,
+      "lng": -86.6754361
+    }
+  },
+  {
+    "name": "Holy Tree Christian Preschool",
+    "address": "3421 Old Anderson Rd",
+    "city": "Antioch",
+    "zip": "37013",
+    "county": "",
+    "grades": "6wk-5th",
+    "website": "http://www.hollytreechildcare.com/",
+    "phone": "(615) 366-1750",
+    "type": "",
+    "coordinates": {
+      "lat": 36.0863439,
+      "lng": -86.6047339
+    }
+  },
+  {
+    "name": "Holy Trinity Montessori",
+    "address": "525 Sneed Road West",
+    "city": "Nashville",
+    "zip": "37221",
+    "county": "Williamson",
+    "grades": "PreK-4",
+    "website": "www.holytrinitymontessori.org",
+    "phone": "(615) 779-6309",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.030429,
+      "lng": -86.962576
+    }
+  },
+  {
+    "name": "Hull Jackson Montessori Magnet",
+    "address": "1015 Kellow ST",
+    "city": "Nashville",
+    "zip": "37208",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152916601",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.1896869,
+      "lng": -86.80719169999999
+    }
+  },
+  {
+    "name": "Hume - Fogg High Academic Magnet",
+    "address": "700 Broadway",
+    "city": "Nashville",
+    "zip": "37203",
+    "county": "Davidson",
+    "grades": "9th-12th",
+    "website": "",
+    "phone": "6152916300",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.159586,
+      "lng": -86.78175
+    }
+  },
+  {
+    "name": "Hunters Lane Comp High School",
+    "address": "1150 Hunters LA",
+    "city": "Nashville",
+    "zip": "37207",
+    "county": "Davidson",
+    "grades": "9th-12th",
+    "website": "",
+    "phone": "6158601401",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.27956470000001,
+      "lng": -86.7529083
+    }
+  },
+  {
+    "name": "Immaculate Conception School",
+    "address": "1901 Madison St",
+    "city": "Clarksville",
+    "zip": "37043",
+    "county": "",
+    "grades": "PK-8",
+    "website": "http://www.icschooltn.org/",
+    "phone": "(931) 645-1865",
+    "type": "Religious Private- Catholic",
+    "coordinates": {
+      "lat": 36.515293,
+      "lng": -87.30123999999999
+    }
+  },
+  {
+    "name": "Inglewood Elementary",
+    "address": "1700 Riverside DR",
+    "city": "Nashville",
+    "zip": "37216",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152626697",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.197866,
+      "lng": -86.724424
+    }
+  },
+  {
+    "name": "Intrepid College Prepatory",
+    "address": "209 10th Avenue South",
+    "city": "Nashville",
+    "zip": "37203",
+    "county": "Davidson",
+    "grades": "5th-7th",
+    "website": "",
+    "phone": "",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.1551802,
+      "lng": -86.7826015
+    }
+  },
+  {
+    "name": "Isaac Litton Middle School",
+    "address": "4601 Hedgewood DR",
+    "city": "Nashville",
+    "zip": "37216",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "6152626700",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.2282458,
+      "lng": -86.720866
+    }
+  },
+  {
+    "name": "Issiah T. Creswell Arts Magnet Middle School",
+    "address": "3500 John Mallette DR",
+    "city": "Nashville",
+    "zip": "37218",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "6152916515",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.1956137,
+      "lng": -86.8375095
+    }
+  },
+  {
+    "name": "J.E. Moss Elementary School",
+    "address": "4701 Bowfield Dr",
+    "city": "Antioch",
+    "zip": "37013",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "(615) 333-5200",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.067094,
+      "lng": -86.66991
+    }
+  },
+  {
+    "name": "Jere Baxter Middle School",
+    "address": "350 Hart LA",
+    "city": "Nashville",
+    "zip": "37207",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "6152626710",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.21881,
+      "lng": -86.751098
+    }
+  },
+  {
+    "name": "Jesus Only Academy",
+    "address": "324 Glenrose Ave.",
+    "city": "Nashville",
+    "zip": "37210",
+    "county": "Davidson",
+    "grades": "K-12",
+    "website": "www.jesusonlytabernacle.com/page1.html",
+    "phone": "(615) 242-6216",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.12563490000001,
+      "lng": -86.74746379999999
+    }
+  },
+  {
+    "name": "Joelton Elementary School",
+    "address": "7141 Whites Creek Pk",
+    "city": "Joelton",
+    "zip": "37080",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "(615) 876-5110",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.3157785,
+      "lng": -86.867893
+    }
+  },
+  {
+    "name": "Joelton Middle School",
+    "address": "3500 Old Clarksville Pk",
+    "city": "Joelton",
+    "zip": "37080",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "(615) 876-5100",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.3131164,
+      "lng": -86.86480879999999
+    }
+  },
+  {
+    "name": "John B Whitsitt Elementary",
+    "address": "110 Whitsett RD",
+    "city": "Nashville",
+    "zip": "37210",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6153335600",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1150755,
+      "lng": -86.7365117
+    }
+  },
+  {
+    "name": "John Early Paideia Middle Magnet",
+    "address": "1000 Cass ST",
+    "city": "Nashville",
+    "zip": "37208",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "6152916369",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.1872669,
+      "lng": -86.80516399999999
+    }
+  },
+  {
+    "name": "John F. Kennedy Middle School",
+    "address": "2087 Hobson Pk",
+    "city": "Antioch",
+    "zip": "37013",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "(615) 501-7900",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.0555846,
+      "lng": -86.60054919999999
+    }
+  },
+  {
+    "name": "John Overton Comp High School",
+    "address": "4820 Franklin RD",
+    "city": "Nashville",
+    "zip": "37220",
+    "county": "Davidson",
+    "grades": "9th-12th",
+    "website": "",
+    "phone": "6153335135",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.079846,
+      "lng": -86.76899600000002
+    }
+  },
+  {
+    "name": "John T. Moore Middle School",
+    "address": "4425 Granny White PK",
+    "city": "Nashville",
+    "zip": "37204",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "6152988095",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.095479,
+      "lng": -86.802494
+    }
+  },
+  {
+    "name": "John Trotwood Moore Middle",
+    "address": "4425 Granny White Pike",
+    "city": "Nashville",
+    "zip": "37215",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "http://www.mnps.org/pages/mnps/About_Us/MNPS_Schools/Middle_Schools/Middle_Preps_School_Profiles/J_T__Moore_Middle_School_Profi",
+    "phone": "",
+    "type": "",
+    "coordinates": {
+      "lat": 36.095479,
+      "lng": -86.802494
+    }
+  },
+  {
+    "name": "Johnson Alternative Learning Center",
+    "address": "3230 Brick Church PK",
+    "city": "Nashville",
+    "zip": "37207",
+    "county": "Davidson",
+    "grades": "",
+    "website": "",
+    "phone": "6152594636",
+    "type": "Alternative",
+    "coordinates": {
+      "lat": 36.2349279,
+      "lng": -86.782399
+    }
+  },
+  {
+    "name": "Johnson School",
+    "address": "1200 2nd Ave So",
+    "city": "Nashville",
+    "zip": "37210",
+    "county": "Davidson",
+    "grades": "8th-12th",
+    "website": "",
+    "phone": "6152916414",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.145466,
+      "lng": -86.76360199999999
+    }
+  },
+  {
+    "name": "Jonathan Edwards Classical Academy",
+    "address": "1022 S. Graycroft",
+    "city": "Nashville",
+    "zip": "37115",
+    "county": "Davidson",
+    "grades": "K-6",
+    "website": "www.jecanashville.org",
+    "phone": "(615) 876-7291",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.2521666,
+      "lng": -86.7362831
+    }
+  },
+  {
+    "name": "Jones Paideia Elementary Magnet",
+    "address": "1800 9th AV",
+    "city": "Nashville",
+    "zip": "37208",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152916382",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.1701238,
+      "lng": -86.790463
+    }
+  },
+  {
+    "name": "Julia Green Elementary",
+    "address": "3701 Belmont BL",
+    "city": "Nashville",
+    "zip": "37215",
+    "county": "Davidson",
+    "grades": "KG-4",
+    "website": "",
+    "phone": "6152988082",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.108672,
+      "lng": -86.80171100000001
+    }
+  },
+  {
+    "name": "KIPP Academy Nashville (KIPP Nashville)",
+    "address": "3410 Knight Drive ",
+    "city": "Whites Creek",
+    "zip": "37189",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "(615) 226-4484",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.2378687,
+      "lng": -86.8037112
+    }
+  },
+  {
+    "name": "KIPP Nashville Collegiate High School (KIPP Nashville)",
+    "address": "123 Douglas Ave",
+    "city": "Nashville",
+    "zip": "37207",
+    "county": "Davidson",
+    "grades": "9th-12th",
+    "website": "",
+    "phone": "(615) 226-4484",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.19473,
+      "lng": -86.769138
+    }
+  },
+  {
+    "name": "Kirkpatrick Elementary Enhanced Option",
+    "address": "1000 Sevier St",
+    "city": "Nashville",
+    "zip": "37206",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152626708",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.167343,
+      "lng": -86.7521
+    }
+  },
+  {
+    "name": "Knowledge Academies",
+    "address": "5380 Hickory Hollow Pkwy",
+    "city": "Antioch",
+    "zip": "37013",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "(615) 800-6814",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.0454436,
+      "lng": -86.651496
+    }
+  },
+  {
+    "name": "LEAD Academy High School (LEAD PS)",
+    "address": "1704 Heiman Street",
+    "city": "Nashville",
+    "zip": "37209",
+    "county": "Davidson",
+    "grades": "5th-11th",
+    "website": "",
+    "phone": "(615) 327-5422",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.1721714,
+      "lng": -86.8056593
+    }
+  },
+  {
+    "name": "LEAD Academy Middle School (LEAD PS)",
+    "address": "1015 Davidson Drive",
+    "city": "Nashville",
+    "zip": "",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.128025,
+      "lng": -86.9042769
+    }
+  },
+  {
+    "name": "LEAD Prep Southeast (LEAD PS)",
+    "address": "2601 Bransford AV",
+    "city": "Nashville",
+    "zip": "37204",
+    "county": "Davidson",
+    "grades": "5th-12th",
+    "website": "",
+    "phone": "(615) 564-1974",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.1215996,
+      "lng": -86.7662813
+    }
+  },
+  {
+    "name": "Lakeview Elementary Design Center",
+    "address": "455 Rural Hill RD",
+    "city": "Nashville",
+    "zip": "37217",
+    "county": "Davidson",
+    "grades": "PK-5",
+    "website": "",
+    "phone": "6153602912",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.07921899999999,
+      "lng": -86.630444
+    }
+  },
+  {
+    "name": "Liberty Collegiate Academy (RePublic Schools)",
+    "address": "3515 Gallatin Road",
+    "city": "Nashville",
+    "zip": "37206",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "(615) 564-1974",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.21256,
+      "lng": -86.73325500000001
+    }
+  },
+  {
+    "name": "Lighthouse Christian Academy",
+    "address": "P.O. Box 160328 ",
+    "city": "Nashville",
+    "zip": "37216",
+    "county": "Davidson",
+    "grades": "K-12",
+    "website": "",
+    "phone": "(615) 612-2502",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.1626638,
+      "lng": -86.7816016
+    }
+  },
+  {
+    "name": "Linden Waldorf School",
+    "address": "3201 Hillsboro Pike",
+    "city": "Nashville",
+    "zip": "37215",
+    "county": "Davidson",
+    "grades": "PK-8",
+    "website": "www.lindenwaldorf.org",
+    "phone": "(615) 354-0270",
+    "type": "Non-Public",
+    "coordinates": {
+      "lat": 36.120021,
+      "lng": -86.8100474
+    }
+  },
+  {
+    "name": "Lipscomb Academy",
+    "address": "3901 Granny White Pike",
+    "city": "Nashville",
+    "zip": "37204-3951",
+    "county": "Davidson",
+    "grades": "PreK-12",
+    "website": "www.lipscomb.edu/dlcs/",
+    "phone": "(615) 269-1828",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.1050527,
+      "lng": -86.7986592
+    }
+  },
+  {
+    "name": "Lockeland Elementary Design Center",
+    "address": "105 South 17th ST",
+    "city": "Nashville",
+    "zip": "37206",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152581330",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.176322,
+      "lng": -86.73915
+    }
+  },
+  {
+    "name": "MNPS virtual School",
+    "address": "120 White Bridge RD",
+    "city": "Nashville",
+    "zip": "37209",
+    "county": "Davidson",
+    "grades": "10th-12th",
+    "website": "",
+    "phone": "6153533333",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1347304,
+      "lng": -86.8571997
+    }
+  },
+  {
+    "name": "Madison Academy",
+    "address": "100 Academy Rd",
+    "city": "Madison",
+    "zip": "37115",
+    "county": "",
+    "grades": "9th-12th",
+    "website": "http://www.madisonacademy.com/",
+    "phone": "(615) 865-4575",
+    "type": "Religious Private- Seventh Day Adventist",
+    "coordinates": {
+      "lat": 40.7595044,
+      "lng": -74.42427339999999
+    }
+  },
+  {
+    "name": "Madison Campus Elementary School",
+    "address": "1515 Sutherland Dr",
+    "city": "Madison",
+    "zip": "37115",
+    "county": "",
+    "grades": "K-8",
+    "website": "http://www.mcesda.org/",
+    "phone": "(615) 865-4575",
+    "type": "Religious Private- Seventh Day Adventist",
+    "coordinates": {
+      "lat": 36.2508852,
+      "lng": -86.67774039999999
+    }
+  },
+  {
+    "name": "Madison Middle",
+    "address": "229 Ashawn Bl",
+    "city": "Old Hickory",
+    "zip": "37138",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "(615) 259-4636",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.235862,
+      "lng": -86.62481199999999
+    }
+  },
+  {
+    "name": "Madison Nazarene Christian Academy",
+    "address": "503 Lanier Dr",
+    "city": "Madison",
+    "zip": "37115",
+    "county": "",
+    "grades": "PK-12",
+    "website": "",
+    "phone": "(615) 865-2746",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 38.7617978,
+      "lng": -85.4029015
+    }
+  },
+  {
+    "name": "Magnolia Academy - House 4",
+    "address": "2412 Plum Street ",
+    "city": "Nashville",
+    "zip": "37207",
+    "county": "Davidson",
+    "grades": "7-12",
+    "website": "",
+    "phone": "615-228-8683",
+    "type": "Alternative",
+    "coordinates": {
+      "lat": 36.2147759,
+      "lng": -86.76625039999999
+    }
+  },
+  {
+    "name": "Maplewood Comp High School",
+    "address": "401 Walton LA",
+    "city": "Nashville",
+    "zip": "37216",
+    "county": "Davidson",
+    "grades": "9th-12th",
+    "website": "",
+    "phone": "6152626770",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.23238730000001,
+      "lng": -86.7499674
+    }
+  },
+  {
+    "name": "Margaret Allen Middle School",
+    "address": "500 Spence LA",
+    "city": "Nashville",
+    "zip": "37210",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "6152916385",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1458955,
+      "lng": -86.7205846
+    }
+  },
+  {
+    "name": "Martin Luther King Jr Magnet School",
+    "address": "613 17th Avenue North",
+    "city": "Nashville",
+    "zip": "37203",
+    "county": "Davidson",
+    "grades": "7th-12th",
+    "website": "",
+    "phone": "6153298400",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.1620206,
+      "lng": -86.800918
+    }
+  },
+  {
+    "name": "May Werthan Shayne Elementary School",
+    "address": "6217 Nolensville RD",
+    "city": "Nashville",
+    "zip": "37211",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6153323020",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.0170451,
+      "lng": -86.7070111
+    }
+  },
+  {
+    "name": "McCann Alternative Learning",
+    "address": "1300 56th Ave N",
+    "city": "Nashville",
+    "zip": "37209",
+    "county": "Davidson",
+    "grades": "",
+    "website": "",
+    "phone": "6152988090",
+    "type": "Alternative",
+    "coordinates": {
+      "lat": 36.1621003,
+      "lng": -86.8553987
+    }
+  },
+  {
+    "name": "McGavock Comp High School",
+    "address": "3150 McGavock PK",
+    "city": "Nashville",
+    "zip": "37214",
+    "county": "Davidson",
+    "grades": "9th-12th",
+    "website": "",
+    "phone": "6158858850",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1857508,
+      "lng": -86.67889749999999
+    }
+  },
+  {
+    "name": "McGavock Elementary",
+    "address": "275 McGavock PK",
+    "city": "Nashville",
+    "zip": "37214",
+    "county": "Davidson",
+    "grades": "K-4th",
+    "website": "",
+    "phone": "6158858912",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.160123,
+      "lng": -86.68034039999999
+    }
+  },
+  {
+    "name": "McKissack Middle School",
+    "address": "915 38th Ave N",
+    "city": "Nashville",
+    "zip": "37209",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "6152988065",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1599811,
+      "lng": -86.8318915
+    }
+  },
+  {
+    "name": "McMurray Middle School",
+    "address": "520 McMurray DR",
+    "city": "Nashville",
+    "zip": "37211",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "6153335126",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.0571742,
+      "lng": -86.7239333
+    }
+  },
+  {
+    "name": "Meigs Middle Magnet School",
+    "address": "713 Ramsey ST",
+    "city": "Nashville",
+    "zip": "37206",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "6152713222",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.1763895,
+      "lng": -86.7608782
+    }
+  },
+  {
+    "name": "Mercy Ministries of America",
+    "address": "15328 Old Hickory Boulvard, PO Box 11060",
+    "city": "Nashville",
+    "zip": "37211",
+    "county": "Davidson",
+    "grades": "7-12",
+    "website": "www.mercyministries.com",
+    "phone": "(615) 831-6987",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.043445,
+      "lng": -86.727222
+    }
+  },
+  {
+    "name": "Metropolitan Baptist School",
+    "address": "730 Neely's Bend Rd",
+    "city": "Madison",
+    "zip": "37115",
+    "county": "",
+    "grades": "K-12",
+    "website": "",
+    "phone": "(615) 868-6674",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.2503389,
+      "lng": -86.696989
+    }
+  },
+  {
+    "name": "Middle College High",
+    "address": "120 White Bridge Rd",
+    "city": "Nashville",
+    "zip": "37209",
+    "county": "Davidson",
+    "grades": "10th-12th",
+    "website": "http://mchs.mnps.org/pages/MiddleCollegeHigh/About_Our_School/Attend_Our_School",
+    "phone": "(615) 353-3333",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1347304,
+      "lng": -86.8571997
+    }
+  },
+  {
+    "name": "Middle Ground Academy",
+    "address": "10604 Concord Rd",
+    "city": "Nashville",
+    "zip": "37201",
+    "county": "",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "(615) 941-1714",
+    "type": "Religious Private- Nondenominational",
+    "coordinates": {
+      "lat": 35.9955047,
+      "lng": -86.69238390000001
+    }
+  },
+  {
+    "name": "Monroe Carell Jr. Children's  Hospital at Vanderbilt",
+    "address": "2200 Children's Way, Suite 2117",
+    "city": "Nashville",
+    "zip": "37232",
+    "county": "Davidson",
+    "grades": "K-12",
+    "website": "",
+    "phone": "(615) 343-4299",
+    "type": "(Satellite home school)",
+    "coordinates": {
+      "lat": 36.1393608,
+      "lng": -86.8024197
+    }
+  },
+  {
+    "name": "Montessori Academy",
+    "address": "6021 Cloverland Dr",
+    "city": "Brentwood",
+    "zip": "37027",
+    "county": "",
+    "grades": "3 mo-8th",
+    "website": "http://www.montessoriacad.org/",
+    "phone": "(615) 833-3610",
+    "type": "Non-secular Private",
+    "coordinates": {
+      "lat": 36.0278911,
+      "lng": -86.74857229999999
+    }
+  },
+  {
+    "name": "Montessori Centre",
+    "address": "4608 Granny White Pike",
+    "city": "Nashville",
+    "zip": "37220",
+    "county": "Davidson",
+    "grades": "PreK-K",
+    "website": "www.montessoricentre.org",
+    "phone": "(615) 373-0897",
+    "type": "Non-secular Private",
+    "coordinates": {
+      "lat": 36.0880134,
+      "lng": -86.80283589999999
+    }
+  },
+  {
+    "name": "Montessori East",
+    "address": "801 Porter Road, Suite J",
+    "city": "Nashville",
+    "zip": "37206",
+    "county": "Davidson",
+    "grades": "PreK-K",
+    "website": "www.monteastnash.com",
+    "phone": "(615) 226-4588",
+    "type": "Non-secular Private",
+    "coordinates": {
+      "lat": 36.1833643,
+      "lng": -86.73217720000001
+    }
+  },
+  {
+    "name": "Montessori School of Franklin",
+    "address": "1325 W Main St Ste. G",
+    "city": "Franklin",
+    "zip": "37064",
+    "county": "",
+    "grades": "PreK-5th",
+    "website": "http://www.montessorifranklin.org/",
+    "phone": "(615) 794-0567",
+    "type": "Non-secular Private",
+    "coordinates": {
+      "lat": 35.91401700000001,
+      "lng": -86.883743
+    }
+  },
+  {
+    "name": "Montgomery Bell Academy",
+    "address": "4001 Harding Road",
+    "city": "Nashville",
+    "zip": "37205",
+    "county": "Davidson",
+    "grades": "7-12",
+    "website": "www.montgomerybell.edu",
+    "phone": "(615) 298-5514",
+    "type": "Non-secular (Boys)",
+    "coordinates": {
+      "lat": 36.1284249,
+      "lng": -86.8366934
+    }
+  },
+  {
+    "name": "Mount View Elementary School",
+    "address": "3820 Murfreesboro Rd",
+    "city": "Antioch",
+    "zip": "37013",
+    "county": "Davidson",
+    "grades": "PK-5",
+    "website": "",
+    "phone": "(615) 641-9393",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.041512,
+      "lng": -86.603718
+    }
+  },
+  {
+    "name": "Murrell School",
+    "address": "1450 14th Avenue South",
+    "city": "Nashville",
+    "zip": "37212",
+    "county": "Davidson",
+    "grades": "K-7th",
+    "website": "",
+    "phone": "6152988070",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1396774,
+      "lng": -86.7900423
+    }
+  },
+  {
+    "name": "Napier Elementary Enhancement Option",
+    "address": "60 Fairfield AV",
+    "city": "Nashville",
+    "zip": "37210",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152916400",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.1502525,
+      "lng": -86.75687839999999
+    }
+  },
+  {
+    "name": "Nashville Academy",
+    "address": "901 Benton Avenue",
+    "city": "Nashville",
+    "zip": "37204",
+    "county": "Davidson",
+    "grades": "9-12",
+    "website": "http://nashvilleacademy.info/default.aspx",
+    "phone": "(615) 330-9463",
+    "type": "Non-secular Private",
+    "coordinates": {
+      "lat": 36.13134,
+      "lng": -86.783052
+    }
+  },
+  {
+    "name": "Nashville Academy of Computer Science (RePublic Schools)",
+    "address": "3307 Brick Church Pike",
+    "city": "Nashville",
+    "zip": "",
+    "county": "Davidson",
+    "grades": "5th-6th",
+    "website": "",
+    "phone": "",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.2424157,
+      "lng": -86.7790819
+    }
+  },
+  {
+    "name": "Nashville Big Picture High School",
+    "address": "160 Rural AV",
+    "city": "Nashville",
+    "zip": "37209",
+    "county": "Davidson",
+    "grades": "9th-12th",
+    "website": "",
+    "phone": "6153532081",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1431522,
+      "lng": -86.8554123
+    }
+  },
+  {
+    "name": "Nashville Christian Advancement Academy",
+    "address": "3551 Dickerson Pike",
+    "city": "Nashville",
+    "zip": "37207",
+    "county": "Davidson",
+    "grades": "K-12",
+    "website": "www.ncaacademy.org",
+    "phone": "(615-860-3740",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.254654,
+      "lng": -86.756456
+    }
+  },
+  {
+    "name": "Nashville Christian School",
+    "address": "7555 Sawyer Brown Road",
+    "city": "Nashville",
+    "zip": "37221",
+    "county": "Davidson",
+    "grades": "PK-12",
+    "website": "www.nashvillechristian.org",
+    "phone": "(615) 356-5600",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.106847,
+      "lng": -86.9321159
+    }
+  },
+  {
+    "name": "Nashville Classical Charter School",
+    "address": "1310 Ordway",
+    "city": "Nashville",
+    "zip": "37206",
+    "county": "Davidson",
+    "grades": "K-2nd",
+    "website": "",
+    "phone": "(615) 259-4636",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.179962,
+      "lng": -86.74605299999999
+    }
+  },
+  {
+    "name": "Nashville International Academy",
+    "address": "7335 Charlotte Pike",
+    "city": "Nashville",
+    "zip": "37209",
+    "county": "Davidson",
+    "grades": "PreK-6",
+    "website": "http://niatn.org/",
+    "phone": "(615) 352-5903",
+    "type": "Religious Private- Islamic",
+    "coordinates": {
+      "lat": 36.116463,
+      "lng": -86.91988599999999
+    }
+  },
+  {
+    "name": "Nashville Prep (RePublic Schools)",
+    "address": "1300 56th Avenue North",
+    "city": "Nashville",
+    "zip": "37209",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "(615) 538-7284",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.1621003,
+      "lng": -86.8553987
+    }
+  },
+  {
+    "name": "Nashville School Of The Arts",
+    "address": "1250 Foster AV",
+    "city": "Nashville",
+    "zip": "37210",
+    "county": "Davidson",
+    "grades": "9th-12th",
+    "website": "",
+    "phone": "6152916600",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.1305645,
+      "lng": -86.74163930000002
+    }
+  },
+  {
+    "name": "Neely's Bend College Prep* (LEAD PS)",
+    "address": "1251 Neely's Bend Road",
+    "city": "Nashville",
+    "zip": "",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "(615) 860-1477",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.2421812,
+      "lng": -86.6741505
+    }
+  },
+  {
+    "name": "Neely's Bend Elementary School",
+    "address": "1300 Neely's Bend Rd",
+    "city": "Madison",
+    "zip": "37115",
+    "county": "Davidson",
+    "grades": "K-4th",
+    "website": "",
+    "phone": "(615 258-1053",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.239097,
+      "lng": -86.673715
+    }
+  },
+  {
+    "name": "New Children First, A Montessori Community",
+    "address": "1710 Woodmont Blvd.",
+    "city": "Nashville",
+    "zip": "37215",
+    "county": "Davidson",
+    "grades": "PreK-3",
+    "website": "www.childrenfirstmontessori.org",
+    "phone": "(615) 292-9938",
+    "type": "Non-secular Private",
+    "coordinates": {
+      "lat": 36.114083,
+      "lng": -86.8041609
+    }
+  },
+  {
+    "name": "New Vision Academy",
+    "address": "297 Plus Park Boulevard",
+    "city": "Nashville",
+    "zip": "37217",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "(615) 473-3006",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.1272749,
+      "lng": -86.725016
+    }
+  },
+  {
+    "name": "Norman Binkley Elementary",
+    "address": "4700 West Longdale DR",
+    "city": "Nashville",
+    "zip": "37211",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6153335037",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.0775513,
+      "lng": -86.7486473
+    }
+  },
+  {
+    "name": "Oak Hill School, The",
+    "address": "4815 Franklin Road",
+    "city": "Nashville",
+    "zip": "37220-1198",
+    "county": "Davidson",
+    "grades": "PreK-6",
+    "website": "www.oakhillschool.org",
+    "phone": "(615) 297-6544",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.0379826,
+      "lng": -86.7864056
+    }
+  },
+  {
+    "name": "Old Center Elementary School",
+    "address": "1245 Dickerson Pk",
+    "city": "Goodlettsville",
+    "zip": "37072",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "(615) 859-8968",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.2914438,
+      "lng": -86.73788379999999
+    }
+  },
+  {
+    "name": "Our Savior Lutheran Academy and Preschool",
+    "address": "5110 Franklin Road",
+    "city": "Nashville",
+    "zip": "37220",
+    "county": "Davidson",
+    "grades": "PreK-K",
+    "website": "www.oslanashville.org",
+    "phone": "(615) 833-1500",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.03726109999999,
+      "lng": -86.7865791
+    }
+  },
+  {
+    "name": "Overbrook School",
+    "address": "4210 Harding Road",
+    "city": "Nashville",
+    "zip": "37205",
+    "county": "Davidson",
+    "grades": "PreK-8",
+    "website": "www.overbrook.edu",
+    "phone": "(615) 292-5134",
+    "type": "Religious Private- Catholic",
+    "coordinates": {
+      "lat": 36.1321007,
+      "lng": -86.8446216
+    }
+  },
+  {
+    "name": "PB & J Day School",
+    "address": "120 Werthan Circle",
+    "city": "Franklin",
+    "zip": "37064",
+    "county": "",
+    "grades": "PreK",
+    "website": "http://www.pbjdayschool.com/",
+    "phone": "(615) 599-6999",
+    "type": "Non-secular Private",
+    "coordinates": {
+      "lat": 35.9051656,
+      "lng": -86.8790212
+    }
+  },
+  {
+    "name": "Paragon Mills Elementary",
+    "address": "260 Paragon Mills RD",
+    "city": "Nashville",
+    "zip": "37211",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6153335170",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.087932,
+      "lng": -86.706887
+    }
+  },
+  {
+    "name": "Park Avenue Elementary Enhanced Option",
+    "address": "3703 Park AV",
+    "city": "Nashville",
+    "zip": "37209",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152988412",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.1509573,
+      "lng": -86.83003819999999
+    }
+  },
+  {
+    "name": "Pearl Cohn Magnet High School",
+    "address": "904 26th Avenue North",
+    "city": "Nashville",
+    "zip": "37208",
+    "county": "Davidson",
+    "grades": "9th-12th",
+    "website": "",
+    "phone": "6153298150",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.1642281,
+      "lng": -86.8148427
+    }
+  },
+  {
+    "name": "Pennington Elementary",
+    "address": "2817 Donna Hill DR",
+    "city": "Nashville",
+    "zip": "37214",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6158858918",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.203736,
+      "lng": -86.68115499999999
+    }
+  },
+  {
+    "name": "Percy Priest Elementary",
+    "address": "1700 Otter Creek RD",
+    "city": "Nashville",
+    "zip": "37215",
+    "county": "Davidson",
+    "grades": "KG-4",
+    "website": "",
+    "phone": "6152988416",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.062412,
+      "lng": -86.833924
+    }
+  },
+  {
+    "name": "Pope John Paul II High School",
+    "address": "117 Caldwell Dr",
+    "city": "Hendersonville",
+    "zip": "37075",
+    "county": "",
+    "grades": "9th-12th",
+    "website": "http://www.jp2hs.org/",
+    "phone": "(615) 822-2375",
+    "type": "Religious Private- Catholic",
+    "coordinates": {
+      "lat": 36.3160412,
+      "lng": -86.6699431
+    }
+  },
+  {
+    "name": "Purpose Prep",
+    "address": "220 Venture Circle",
+    "city": "Nashville",
+    "zip": "37228",
+    "county": "Davidson",
+    "grades": "K-2nd",
+    "website": "",
+    "phone": "(615) 259-4636",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.1942809,
+      "lng": -86.794725
+    }
+  },
+  {
+    "name": "Radnor Baptists Academy",
+    "address": "3112 Nolensville Rd",
+    "city": "Nashville",
+    "zip": "37211",
+    "county": "",
+    "grades": "PK-12",
+    "website": "http://www.radnorbaptistacademy.org/",
+    "phone": "(615) 832-2004",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.1017703,
+      "lng": -86.7405167
+    }
+  },
+  {
+    "name": "River Road Academy (formerly Community High School)",
+    "address": "8283 River Road; P.O. Box 907227",
+    "city": "Nashville",
+    "zip": "37209",
+    "county": "Davidson",
+    "grades": "9-12",
+    "website": "www.cumberlandheights.org/locations/river_road.aspx",
+    "phone": "(615) 432-3165",
+    "type": "Alternative",
+    "coordinates": {
+      "lat": 36.1540427,
+      "lng": -86.95066829999999
+    }
+  },
+  {
+    "name": "Robert Churchwell Museum Magnet Elementary School",
+    "address": "1625 Dr. D. B. Todd Jr. BL",
+    "city": "Nashville",
+    "zip": "37208",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6156874024",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.1755216,
+      "lng": -86.8101051
+    }
+  },
+  {
+    "name": "Robert E. Lilliard @ Kings Lane Design Center",
+    "address": "3200 Kings LA",
+    "city": "Nashville",
+    "zip": "37218",
+    "county": "Davidson",
+    "grades": "KG-4",
+    "website": "",
+    "phone": "6158765126",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.2208091,
+      "lng": -86.8272949
+    }
+  },
+  {
+    "name": "Rocketship Northeast Nashville",
+    "address": "2526 Dickerson Pike",
+    "city": "Nashville",
+    "zip": "37207",
+    "county": "Davidson",
+    "grades": "K-4th",
+    "website": "",
+    "phone": "",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.2136561,
+      "lng": -86.7650792
+    }
+  },
+  {
+    "name": "Rocketship United Academy",
+    "address": "320 Plus Park Blvd",
+    "city": "Nashville",
+    "zip": "37217",
+    "county": "Davidson",
+    "grades": "K-4th",
+    "website": "",
+    "phone": "",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.130456,
+      "lng": -86.724803
+    }
+  },
+  {
+    "name": "Rose Park Math/ Science Middle Magnet",
+    "address": "1025 9th Avenue South",
+    "city": "Nashville",
+    "zip": "37203",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "6152916405",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.142674,
+      "lng": -86.781621
+    }
+  },
+  {
+    "name": "Rosebank Elementary",
+    "address": "1012 Preston DR",
+    "city": "Nashville",
+    "zip": "37206",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152626720",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.184133,
+      "lng": -86.718487
+    }
+  },
+  {
+    "name": "Ross Elementary*Early Learning Center",
+    "address": "601 McFerrin AV",
+    "city": "Nashville",
+    "zip": "37206",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152626728",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1806873,
+      "lng": -86.7538491
+    }
+  },
+  {
+    "name": "Ruby Major Elementary School",
+    "address": "5141 John Hager Rd",
+    "city": "Hermitage",
+    "zip": "37076",
+    "county": "Davidson",
+    "grades": "K-4th",
+    "website": "",
+    "phone": "(615) 232-2203",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1557283,
+      "lng": -86.5785801
+    }
+  },
+  {
+    "name": "STEM Prep High School",
+    "address": "1162 Foster Ave",
+    "city": "Nashville",
+    "zip": "37210",
+    "county": "Davidson",
+    "grades": "9th",
+    "website": "",
+    "phone": "",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.1359854,
+      "lng": -86.7401797
+    }
+  },
+  {
+    "name": "STEM Preparatory Academy",
+    "address": "1162 Foster Ave",
+    "city": "Nashville",
+    "zip": "37210",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "(615) 752-0002",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.1359854,
+      "lng": -86.7401797
+    }
+  },
+  {
+    "name": "STRIVE Collegiate Academy",
+    "address": "3055 Lebanon Pike",
+    "city": "Nashville",
+    "zip": "",
+    "county": "Davidson",
+    "grades": "5th",
+    "website": "",
+    "phone": "",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.1788558,
+      "lng": -86.6429636
+    }
+  },
+  {
+    "name": "Schrader Lane Child Care Center",
+    "address": "1234 Schrader Lane",
+    "city": "Nashville",
+    "zip": "37208",
+    "county": "Davidson",
+    "grades": "K",
+    "website": "",
+    "phone": "(615) 329-9830",
+    "type": "Non-secular Private",
+    "coordinates": {
+      "lat": 36.171864,
+      "lng": -86.82278099999999
+    }
+  },
+  {
+    "name": "Shwab Elementary",
+    "address": "1500 Dickerson RD",
+    "city": "Nashville",
+    "zip": "37207",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152626725",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.2000487,
+      "lng": -86.7720689
+    }
+  },
+  {
+    "name": "Smith Springs Elementary School",
+    "address": "3132 Smith Springs Rd",
+    "city": "Antioch",
+    "zip": "37013",
+    "county": "Davidson",
+    "grades": "PreK-4",
+    "website": "http://smithspringses.mnps.org/",
+    "phone": "",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.08292,
+      "lng": -86.595602
+    }
+  },
+  {
+    "name": "Smithson Craighead Academy",
+    "address": "3307 Brick Church Pike Nashville, TN 37207",
+    "city": "Nashville",
+    "zip": "37207",
+    "county": "Davidson",
+    "grades": "K-4th",
+    "website": "",
+    "phone": "(615) 228-9886",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.2424157,
+      "lng": -86.7790819
+    }
+  },
+  {
+    "name": "Smithson-craighhead Middle School",
+    "address": "730 Neely's Bend Rd Madison, TN 37115",
+    "city": "Madison",
+    "zip": "37115",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "(615) 228-1200",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.2503389,
+      "lng": -86.696989
+    }
+  },
+  {
+    "name": "Spectrum Academy",
+    "address": "3125 Ironwood Drive",
+    "city": "Nashville",
+    "zip": "37214",
+    "county": "Davidson",
+    "grades": "7-12",
+    "website": "www.spectrumschools.com",
+    "phone": "(615) 866-9273",
+    "type": "Special Needs",
+    "coordinates": {
+      "lat": 36.154589,
+      "lng": -86.652239
+    }
+  },
+  {
+    "name": "Spring Hill Christian Academy",
+    "address": "3015 Bellshire Village Dr.",
+    "city": "Spring Hill",
+    "zip": "37174",
+    "county": "",
+    "grades": "K-12",
+    "website": "http://shchristian.com/",
+    "phone": "(615) 435-9476",
+    "type": "Religious Private- Nondenominational",
+    "coordinates": {
+      "lat": 35.7695566,
+      "lng": -86.92007029999999
+    }
+  },
+  {
+    "name": "St. Ann School",
+    "address": "5105 Charlotte Avenue",
+    "city": "Nashville",
+    "zip": "37209",
+    "county": "Davidson",
+    "grades": "K-8",
+    "website": "www.saintannparish.com/school/",
+    "phone": "(615) 269-0568",
+    "type": "Religious Private- Catholic",
+    "coordinates": {
+      "lat": 36.1516838,
+      "lng": -86.8495519
+    }
+  },
+  {
+    "name": "St. Bernard Academy",
+    "address": "2020 24th Avenue, South",
+    "city": "Nashville",
+    "zip": "37212",
+    "county": "Davidson",
+    "grades": "PreK-8",
+    "website": "www.stbernardacademy.org",
+    "phone": "(615) 385-0440 x203",
+    "type": "Religious Private- Catholic",
+    "coordinates": {
+      "lat": 36.1321866,
+      "lng": -86.8055703
+    }
+  },
+  {
+    "name": "St. Cecilia Academy",
+    "address": "4210 Harding Road",
+    "city": "Nashville",
+    "zip": "37205",
+    "county": "Davidson",
+    "grades": "9-12",
+    "website": "www.stcecilia.edu",
+    "phone": "(615) 298-4525",
+    "type": "Religious Private- Catholic",
+    "coordinates": {
+      "lat": 36.1321007,
+      "lng": -86.8446216
+    }
+  },
+  {
+    "name": "St. Clement Coptic Orthodox Christian Academy",
+    "address": "476 McMurray Drive",
+    "city": "Nashville",
+    "zip": "37211",
+    "county": "Davidson",
+    "grades": "PreK-7",
+    "website": "www.stclementacademy.com",
+    "phone": "(615) 333-9281",
+    "type": "Religious Private- Catholic",
+    "coordinates": {
+      "lat": 36.0592789,
+      "lng": -86.7230469
+    }
+  },
+  {
+    "name": "St. Edward School",
+    "address": "190 Thompson Lane",
+    "city": "Nashville",
+    "zip": "37211",
+    "county": "Davidson",
+    "grades": "PreK-8",
+    "website": "www.stedward.org",
+    "phone": "(615) 833-5770",
+    "type": "Religious Private- Catholic",
+    "coordinates": {
+      "lat": 36.1109953,
+      "lng": -86.73976739999999
+    }
+  },
+  {
+    "name": "St. Henry School",
+    "address": "6401 Harding Road",
+    "city": "Nashville",
+    "zip": "37205",
+    "county": "Davidson",
+    "grades": "PreK-8",
+    "website": "www.sthenryschool.org",
+    "phone": "(615) 352-1328",
+    "type": "Religious Private- Catholic",
+    "coordinates": {
+      "lat": 36.09043400000001,
+      "lng": -86.887068
+    }
+  },
+  {
+    "name": "St. John Vianney School",
+    "address": "501 North Water St",
+    "city": "Gallatin",
+    "zip": "37066",
+    "county": "",
+    "grades": "PK-8",
+    "website": "http://www.saintjohnvianney.org/",
+    "phone": "(615) 230-7048",
+    "type": "Religious Private- Catholic",
+    "coordinates": {
+      "lat": 36.39637889999999,
+      "lng": -86.44541380000001
+    }
+  },
+  {
+    "name": "St. Joseph School",
+    "address": "1225 Gallatin Rd S",
+    "city": "Madison",
+    "zip": "37115",
+    "county": "",
+    "grades": "PK-8",
+    "website": "http://www.stjosephnashville.org/",
+    "phone": "(615) 865-1491",
+    "type": "Religious Private- Catholic",
+    "coordinates": {
+      "lat": 36.24486,
+      "lng": -86.72097590000001
+    }
+  },
+  {
+    "name": "St. Matthew School",
+    "address": "533 Sneed Rd. W",
+    "city": "Franklin",
+    "zip": "37069",
+    "county": "",
+    "grades": "K-8",
+    "website": "http://www.churchofstmatthew.org/sms/Home.aspx",
+    "phone": "(615) 662-4044",
+    "type": "Religious Private- Catholic",
+    "coordinates": {
+      "lat": 36.0286478,
+      "lng": -86.9585749
+    }
+  },
+  {
+    "name": "St. Paul Christian Academy",
+    "address": "5035 Hillsboro Road",
+    "city": "Nashville",
+    "zip": "37215",
+    "county": "Davidson",
+    "grades": "K-6",
+    "website": "http://stpaulchristianacademy.org",
+    "phone": "(615) 269-4751",
+    "type": "Religious Private- Catholic",
+    "coordinates": {
+      "lat": 36.097609,
+      "lng": -86.825137
+    }
+  },
+  {
+    "name": "St. Pius X Classical Academy",
+    "address": "2750 Tucker Road",
+    "city": "Nashville",
+    "zip": "37218",
+    "county": "Davidson",
+    "grades": "PreK-8",
+    "website": "www.stpiusnashville.org",
+    "phone": "(615) 255-2049",
+    "type": "Religious Private- Catholic",
+    "coordinates": {
+      "lat": 36.209525,
+      "lng": -86.82258
+    }
+  },
+  {
+    "name": "St. Rose of Lima Catholic School",
+    "address": "1601 North Tennessee Blvd",
+    "city": "Murfreesboro",
+    "zip": "37130",
+    "county": "",
+    "grades": "PK-8",
+    "website": "http://www.school.saintrose.org/pages/Saint_Rose_of_Lima_Catholic_Sc",
+    "phone": "(615) 255-2049",
+    "type": "Religious Private- Catholic",
+    "coordinates": {
+      "lat": 35.8651088,
+      "lng": -86.3700995
+    }
+  },
+  {
+    "name": "Stanford Elementary Montessori Design Center",
+    "address": "2417 Maplecrest DR",
+    "city": "Nashville",
+    "zip": "37214",
+    "county": "Davidson",
+    "grades": "9th-12th",
+    "website": "",
+    "phone": "6158858822",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.17646149999999,
+      "lng": -86.6824369
+    }
+  },
+  {
+    "name": "Stratford STEM Magnet High School",
+    "address": "1800 Stratford AV",
+    "city": "Nashville",
+    "zip": "37216",
+    "county": "Davidson",
+    "grades": "9th-12th",
+    "website": "",
+    "phone": "6152626730",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.1982519,
+      "lng": -86.718313
+    }
+  },
+  {
+    "name": "Stratton Elementary School",
+    "address": "310 Old Hickory Blvd",
+    "city": "Madison",
+    "zip": "37115",
+    "county": "Davidson",
+    "grades": "K-4th",
+    "website": "",
+    "phone": "(615) 860-1486",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.2649178,
+      "lng": -86.717428
+    }
+  },
+  {
+    "name": "Sumit Christian Academy",
+    "address": "5100 Almaville Road",
+    "city": "Smyrna",
+    "zip": "37167",
+    "county": "",
+    "grades": "K-5th",
+    "website": "http://www.summitchristiantn.com/",
+    "phone": "(615) 656-7866",
+    "type": "Religious Private- Nondenominational",
+    "coordinates": {
+      "lat": 35.9002121,
+      "lng": -86.5639594
+    }
+  },
+  {
+    "name": "Sumner Academy",
+    "address": "464 Nichols Ln",
+    "city": "Gallatin",
+    "zip": "37066",
+    "county": "",
+    "grades": "PK-8",
+    "website": "http://www.sumneracademy.org/",
+    "phone": "(615) 452-1914",
+    "type": "Non-secular Private",
+    "coordinates": {
+      "lat": 36.3631296,
+      "lng": -86.4610951
+    }
+  },
+  {
+    "name": "Sylvan Park Paideia Design Center",
+    "address": "4801 Utah AV",
+    "city": "Nashville",
+    "zip": "37209",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152988423",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.1443911,
+      "lng": -86.84482080000001
+    }
+  },
+  {
+    "name": "Tenn School For Blind",
+    "address": "115 Stewarts Ferry PK",
+    "city": "Nashville",
+    "zip": "37214",
+    "county": "Davidson",
+    "grades": "",
+    "website": "",
+    "phone": "6152317300",
+    "type": "Special Needs",
+    "coordinates": {
+      "lat": 36.1674671,
+      "lng": -86.6543964
+    }
+  },
+  {
+    "name": "The Academy at Hickory Hollow",
+    "address": "5248 Hickory Hollow Pw",
+    "city": "Antioch",
+    "zip": "37013",
+    "county": "Davidson",
+    "grades": "11-12th",
+    "website": "",
+    "phone": "(615) 687-4028",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.0494366,
+      "lng": -86.6567204
+    }
+  },
+  {
+    "name": "The Academy at Old Cockrill",
+    "address": "610 49th AV",
+    "city": "Nashville",
+    "zip": "37209",
+    "county": "Davidson",
+    "grades": "9th-12th",
+    "website": "",
+    "phone": "6152594636",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.15516100000001,
+      "lng": -86.84557590000001
+    }
+  },
+  {
+    "name": "The Academy at Opry Mills",
+    "address": "433 Opry Mills DR",
+    "city": "Nashville",
+    "zip": "37214",
+    "county": "Davidson",
+    "grades": "9th-12th",
+    "website": "",
+    "phone": "6156874028",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.2033511,
+      "lng": -86.6930576
+    }
+  },
+  {
+    "name": "The Cohn School",
+    "address": "4805 Park AV",
+    "city": "Nashville",
+    "zip": "37209",
+    "county": "Davidson",
+    "grades": "8th-10th",
+    "website": "",
+    "phone": "6152986617",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1504178,
+      "lng": -86.8454265
+    }
+  },
+  {
+    "name": "The Covenant School",
+    "address": "33 Burton Hills Blvd",
+    "city": "Nashville",
+    "zip": "37215",
+    "county": "Davidson",
+    "grades": "PreK-6",
+    "website": "www.thecovenantschool.com ",
+    "phone": "(615) 467-2313",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.0932101,
+      "lng": -86.82577810000001
+    }
+  },
+  {
+    "name": "The Montessori School of Donelson",
+    "address": "2525-B Lebanon Pike",
+    "city": "Nashville",
+    "zip": "37214",
+    "county": "Davidson",
+    "grades": "PreK-K",
+    "website": "www.montessoridonelson.org",
+    "phone": "615-872-0101",
+    "type": "Non-secular Private",
+    "coordinates": {
+      "lat": 36.1693443,
+      "lng": -86.677466
+    }
+  },
+  {
+    "name": "Thomas A Edison Elementary School",
+    "address": "6130 Mt. View Rd",
+    "city": "Antioch",
+    "zip": "37013",
+    "county": "Davidson",
+    "grades": "PK-5",
+    "website": "",
+    "phone": "(615) 501-8800",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 37.9833517,
+      "lng": -121.8187688
+    }
+  },
+  {
+    "name": "Thurgood Marshall Middle School",
+    "address": "5820 Pettus Rd",
+    "city": "Antioch",
+    "zip": "37013",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "(615) 941-7515",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.024278,
+      "lng": -86.6638509
+    }
+  },
+  {
+    "name": "Tom Joy Elementary",
+    "address": "2201 Jones AV",
+    "city": "Nashville",
+    "zip": "37207",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152626724",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.2085979,
+      "lng": -86.75715330000001
+    }
+  },
+  {
+    "name": "Tulip Grove Elementary",
+    "address": "441 Tyler Dr",
+    "city": "Hermitage",
+    "zip": "37076",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "(615) 885-8944",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1985304,
+      "lng": -86.6109218
+    }
+  },
+  {
+    "name": "Tusculum Elementary",
+    "address": "4917 Nolensville RD",
+    "city": "Nashville",
+    "zip": "37211",
+    "county": "Davidson",
+    "grades": "K-4th",
+    "website": "",
+    "phone": "6153335179",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.063767,
+      "lng": -86.7170915
+    }
+  },
+  {
+    "name": "Two Rivers Middle School",
+    "address": "2991 McGavock PK",
+    "city": "Nashville",
+    "zip": "37214",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "6158858931",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1945329,
+      "lng": -86.674363
+    }
+  },
+  {
+    "name": "Una Elementary",
+    "address": "2018 Murfreesboro RD",
+    "city": "Nashville",
+    "zip": "37214",
+    "county": "Davidson",
+    "grades": "K-4th",
+    "website": "",
+    "phone": "6153602921",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.0950768,
+      "lng": -86.6540093
+    }
+  },
+  {
+    "name": "University School of Nashville",
+    "address": "2000 Edgehill Avenue",
+    "city": "Nashville",
+    "zip": "37212",
+    "county": "Davidson",
+    "grades": "K-12",
+    "website": "www.usn.org",
+    "phone": "(615) 327-3812",
+    "type": "Non-secular Private",
+    "coordinates": {
+      "lat": 36.144355,
+      "lng": -86.7984872
+    }
+  },
+  {
+    "name": "Valor Collegiate Academy",
+    "address": "4527 Nolensville Pike",
+    "city": "Nashville",
+    "zip": "",
+    "county": "Davidson",
+    "grades": "5th-6th",
+    "website": "",
+    "phone": "",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.070607,
+      "lng": -86.72571599999999
+    }
+  },
+  {
+    "name": "Valor Collegiate Academy #2",
+    "address": "4527 Nolensville Pike",
+    "city": "Nashville",
+    "zip": "",
+    "county": "Davidson",
+    "grades": "5th-6th",
+    "website": "",
+    "phone": "",
+    "type": "Charter",
+    "coordinates": {
+      "lat": 36.070607,
+      "lng": -86.72571599999999
+    }
+  },
+  {
+    "name": "W. A. Bass Adult High School",
+    "address": "5300 Delaware AV",
+    "city": "Nashville",
+    "zip": "37209",
+    "county": "Davidson",
+    "grades": "",
+    "website": "",
+    "phone": "6152988053",
+    "type": "Alternative",
+    "coordinates": {
+      "lat": 36.1541297,
+      "lng": -86.85120510000002
+    }
+  },
+  {
+    "name": "W.A. Bass Alternative Learning Center",
+    "address": "5200 Delaware AV",
+    "city": "Nashville",
+    "zip": "37209",
+    "county": "Davidson",
+    "grades": "9th-12th",
+    "website": "",
+    "phone": "6152983278",
+    "type": "Alternative",
+    "coordinates": {
+      "lat": 36.154552,
+      "lng": -86.851366
+    }
+  },
+  {
+    "name": "Warner Elementary Enhanced Option School",
+    "address": "626 Russell ST",
+    "city": "Nashville",
+    "zip": "37206",
+    "county": "Davidson",
+    "grades": "PK-4",
+    "website": "",
+    "phone": "6152916395",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.171852,
+      "lng": -86.759976
+    }
+  },
+  {
+    "name": "Wayne Reed Child Care Center",
+    "address": "11- B Lindsley AV",
+    "city": "Nashville",
+    "zip": "37210",
+    "county": "Davidson",
+    "grades": "",
+    "website": "",
+    "phone": "6152449311",
+    "type": "",
+    "coordinates": {
+      "lat": 36.1524981,
+      "lng": -86.7678486
+    }
+  },
+  {
+    "name": "West End Middle School",
+    "address": "3529 West End AV",
+    "city": "Nashville",
+    "zip": "37205",
+    "county": "Davidson",
+    "grades": "9th-12th",
+    "website": "",
+    "phone": "6152988425",
+    "type": "Magnet",
+    "coordinates": {
+      "lat": 36.13172300000001,
+      "lng": -86.825638
+    }
+  },
+  {
+    "name": "Westmeade Elementary",
+    "address": "6641 Clearbrook DR",
+    "city": "Nashville",
+    "zip": "37205",
+    "county": "Davidson",
+    "grades": "K-4th",
+    "website": "",
+    "phone": "6153532066",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.0922849,
+      "lng": -86.89331790000001
+    }
+  },
+  {
+    "name": "Whites Creek High School",
+    "address": "7277 Old Hickory Bl",
+    "city": "Whites Creek",
+    "zip": "37189",
+    "county": "Davidson",
+    "grades": "9th-12th",
+    "website": "",
+    "phone": "(615) 876-5132",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.276274,
+      "lng": -86.8184644
+    }
+  },
+  {
+    "name": "William Henry Oliver Middle School",
+    "address": "6211 Nolensville RD",
+    "city": "Nashville",
+    "zip": "37211",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "6153323011",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.0201545,
+      "lng": -86.7124054
+    }
+  },
+  {
+    "name": "Woodbine Christian Academy",
+    "address": "2204 Foster Ave",
+    "city": "Nashville",
+    "zip": "37210",
+    "county": "",
+    "grades": "PK-8",
+    "website": "http://www.woodbineca.org/",
+    "phone": "(615) 254-7588",
+    "type": "Religious Private- Christian",
+    "coordinates": {
+      "lat": 36.124802,
+      "lng": -86.74196200000002
+    }
+  },
+  {
+    "name": "Wright Middle School",
+    "address": "180 McCall ST",
+    "city": "Nashville",
+    "zip": "37211",
+    "county": "Davidson",
+    "grades": "5th-8th",
+    "website": "",
+    "phone": "6153335189",
+    "type": "Public Neighborhood",
+    "coordinates": {
+      "lat": 36.1002707,
+      "lng": -86.7340298
+    }
   }
 ]
