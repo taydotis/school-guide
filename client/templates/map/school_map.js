@@ -3,10 +3,10 @@ Template.schoolMap.onRendered(function() {
 });
 
 Template.schoolMap.helpers({
-  exampleMapOptions: function() {
-    // Make sure the maps API has loaded
+  mapOptions: function() {
+    // make sure the API has loaded
     if (GoogleMaps.loaded()) {
-      // Map initialization options
+      // set options for map initialization
       return {
         center: new google.maps.LatLng(36.1667, -86.7833),
         zoom: 12,
@@ -17,28 +17,30 @@ Template.schoolMap.helpers({
 });
 
 Template.schoolMap.onCreated(function() {
-  // We can use the `ready` callback to interact with the map API once the map is ready.
-  GoogleMaps.ready('exampleMap', function(map) {
 
-  	// Returns bound of the map for search
+  // use the 'ready' callback to interact with the API once the map is ready
+  GoogleMaps.ready('map', function(map) {
+
+  	// returns the NE/SW bounds of the map
 		function get_bounds(){
 			return {
-			   sw_lat : map.getBounds().getSouthWest().lat(),
-			   sw_lng : map.getBounds().getSouthWest().lng(),
-			   ne_lat : map.getBounds().getNorthEast().lat(),
-			   ne_lng : map.getBounds().getNorthEast().lng()
+        nelat : GoogleMaps.maps.map.instance.getBounds().getNorthEast().lat(),
+        nelng : GoogleMaps.maps.map.instance.getBounds().getNorthEast().lng(),
+        swlat : GoogleMaps.maps.map.instance.getBounds().getSouthWest().lat(),
+        swlng : GoogleMaps.maps.map.instance.getBounds().getSouthWest().lng()
 			};
 		}
 
-		// Return bounds whenever map is adjusted
-		new google.maps.event.addListener( map , 'idle' , function(){
-			request_listings( get_bounds() );
+		// call for bounds whenever the map is finished being panned or zoomed
+		new google.maps.event.addListener( map.instance , 'idle' , function(){
+			console.log( get_bounds() );
 		});
 
-    // Add a marker to the map once it's ready
+    // template for adding a marker to the map
     var marker = new google.maps.Marker({
       position: map.options.center,
       map: map.instance
     });
+
   });
 });
